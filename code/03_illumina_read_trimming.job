@@ -1,0 +1,16 @@
+#!/bin/bash -l
+#SBATCH -A uppmax2023-2-8
+#SBATCH -M snowy
+#SBATCH -p core
+#SBATCH -n 2
+#SBATCH -t 01:00:00
+#SBATCH -J leono_trimming
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user leonora.eriksson.4675@student.uu.se
+# Load modules
+module load bioinfo-tools
+module load trimmomatic
+
+# Your commands
+java -jar $TRIMMOMATIC_ROOT/trimmomatic.jar PE /crex/proj/genomeanalysis2023/Genome_Analysis/4_Tean_Teh_2017/illumina_data/SRR6058604_scaffold_10.1P.fastq.gz /crex/proj/genomeanalysis2023/Genome_Analysis/4_Tean_Teh_2017/illumina_data/SRR6058604_scaffold_10.2P.fastq.gz -baseout Illumina_trimmed.fq.gz LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+
