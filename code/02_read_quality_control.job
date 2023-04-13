@@ -1,0 +1,16 @@
+#!/bin/bash -l
+#SBATCH -A uppmax2023-2-8
+#SBATCH -M snowy
+#SBATCH -p core
+#SBATCH -n 2
+#SBATCH -t 30:00
+#SBATCH -J leono_qualitycontrol
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user leonora.eriksson.4675@student.uu.se
+# Load modules
+module load bioinfo-tools
+module load FastQC
+
+# Your commands
+fastqc -o /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/02_pre_processing -t 2 /crex/proj/genomeanalysis2023/Genome_Analysis/4_Tean_Teh_2017/illumina_data/SRR6058604_scaffold_10.1P.fastq.gz /crex/proj/genomeanalysis2023/Genome_Analysis/4_Tean_Teh_2017/illumina_data/SRR6058604_scaffold_10.2P.fastq.gz
+
