@@ -16,4 +16,4 @@ module load canu
 # Your commands
 cd $SNIC_TMP
 canu -p pacbio -d pacbio_assembly genomeSize=36m useGrid=false corMaxEvidenceErate=0.15 -pacbio /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/data/raw_data/pacbio_data/SRR6037732_scaffold_10.fq.gz
-cp -r /scratch/$SLURM_JOB_ID/pacbio_assembly /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/01_genome_assembly
+cp -r pacbio_assembly /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/01_genome_assembly
