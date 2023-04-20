@@ -12,4 +12,6 @@ module load bioinfo-tools
 module load FastQC
 
 # Your commands
-fastqc -o /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/02_pre_processing -t 2 /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/data/trimmed_data/Illumina_trimmed_2P.fq.gz /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/data/trimmed_data/Illumina_trimmed_1P.fq.gz
+fastqc -o /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/02_pre_processing/transcriptome_Illumina -t 2 \
+/home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/data/raw_data/transcriptome/untrimmed/SRR6040095_scaffold_10.1.fastq.gz \
+/home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/data/raw_data/transcriptome/untrimmed/SRR6040095_scaffold_10.2.fastq.gz
