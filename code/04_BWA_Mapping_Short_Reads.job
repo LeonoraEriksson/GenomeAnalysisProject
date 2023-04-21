@@ -1,0 +1,41 @@
+#!/bin/bash -l
+#SBATCH -A uppmax2023-2-8
+#SBATCH -M snowy
+#SBATCH -p core
+#SBATCH -n 2
+#SBATCH -t 01:30:00
+#SBATCH -J leono_BWA
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user leonora.eriksson.4675@student.uu.se
+# Load modules
+module load bioinfo-tools
+module load bwa
+module load samtools
+
+# Your commands
+cd $SNIC_TMP
+bwa index /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/01_genome_assembly/pacbio_assembly/pacbio.contigs.fasta
+bwa mem -t 2 /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/01_genome_assembly/pacbio_assembly/pacbio.contigs.fasta \
+/home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/data/trimmed_data/Illumina_trimmed_1P.fq.gz \
+/home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/data/trimmed_data/Illumina_trimmed_2P.fq.gz \
+| samtools view -S -b | samtools sort -o mapped_reads_sorted.bam
+cp mapped_reads_sorted.bam /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/01_genome_assembly/mapped_reads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
