@@ -1,0 +1,30 @@
+#!/bin/bash -l
+#SBATCH -A uppmax2023-2-8
+#SBATCH -M snowy
+#SBATCH -p core
+#SBATCH -n 8
+#SBATCH -t 01:00:00
+#SBATCH -J leono_STAR
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user leonora.eriksson.4675@student.uu.se
+# Load modules
+module load bioinfo-tools
+module load star
+
+# Your commands
+cd $SNIC_TMP
+STAR --runThreadN 8 \
+--runMode genomeGenerate \
+--genomeDir /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping \
+--genomeFastaFiles /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/01_genome_assembly/corrected_assembly/Corrected_assembly.fasta \
+--genomeSAindexNbases 11
+
+STAR --runThreadN 8 \
+--readFilesIn /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/data/trimmed_data/MusangKing_Aril_3.1.fq.gz /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/data/trimmed_data/MusangKing_Aril_3.2.fq.gz \
+--readFilesCommand gunzip -c \
+--genomeDir /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping \
+--outFileNamePrefix /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapped_transcript_RNA_ \
+--outSAMtype BAM SortedByCoordinate \
+--outSAMunmapped Within \
+--outSAMattributes Standard
+
