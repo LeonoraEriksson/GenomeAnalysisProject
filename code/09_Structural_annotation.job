@@ -1,0 +1,38 @@
+#!/bin/bash -l
+#SBATCH -A uppmax2023-2-8
+#SBATCH -M snowy
+#SBATCH -p core
+#SBATCH -n 16
+#SBATCH -t 4:00:00
+#SBATCH -J leono_BRAKER
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user leonora.eriksson.4675@student.uu.se
+
+# Load modules
+module load bioinfo-tools
+module load braker/2.1.1_Perl5.24.1
+module load augustus/3.2.3_Perl5.24.1
+module load bamtools/2.5.1
+module load blast/2.9.0+
+module load GenomeThreader/1.7.0
+module load samtools/1.8
+module load GeneMark/4.33-es_Perl5.24.1
+
+# Your commands
+cp -vf /sw/bioinfo/GeneMark/4.33-es/snowy/gm_key $HOME/.gm_key
+source $AUGUSTUS_CONFIG_COPY
+chmod a+w -R /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/code/augustus_config/
+
+/sw/bioinfo/braker/2.1.1/snowy/braker.pl \
+--AUGUSTUS_CONFIG_PATH=/home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/code/augustus_config/ \
+--AUGUSTUS_BIN_PATH=/sw/bioinfo/augustus/3.4.0/snowy/bin/ \
+--AUGUSTUS_SCRIPTS_PATH=/sw/bioinfo/augustus/3.4.0/snowy/scripts/ \
+--GENEMARK_PATH=/sw/bioinfo/GeneMark/4.33-es/snowy/ \
+--species=zibethinus \
+--useexisting \
+--workingdir=/home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/code/ \
+--softmasking \
+--cores=16 \
+--genome=/home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/Andreas/FilerTillLeo/durian_pilon.fasta.masked \
+--bam=/home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/Andreas/FilerTillLeo/Aligned.out.bam
+
