@@ -15,17 +15,18 @@ module load star
 cd $SNIC_TMP
 STAR --runThreadN 16 \
 --runMode genomeGenerate \
---genomeDir /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapping_for_differential_expression/Aril_3 \
+--genomeDir /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapping_for_differential_expression/Aril_1 \
 --genomeFastaFiles /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/Andreas/FilerTillLeo/durian_pilon.fasta.masked \
 --sjdbGTFfile /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/code/augustus.hints.gtf \
 --genomeSAindexNbases 11
 
 STAR --runThreadN 16 \
---readFilesIn /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/data/trimmed_data/MusangKing_Aril_3.1.fq.gz /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/data/trimmed_data/MusangKing_Aril_3.2.fq.gz \
+--readFilesIn /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/data/raw_data/transcriptome/trimmed/SRR6040094_scaffold_10.1.fastq.gz /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/data/raw_data/transcriptome/trimmed/SRR6040094_scaffold_10.2.fastq.gz \
 --readFilesCommand gunzip -c \
---genomeDir /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapping_for_differential_expression/Aril_3 \
---outFileNamePrefix /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapping_for_differential_expression/Aril_3/Aril_3_mapped_ \
+--genomeDir /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapping_for_differential_expression/Aril_1 \
+--outFileNamePrefix /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapping_for_differential_expression/Aril_1/Aril_1_mapped_ \
 --outSAMtype BAM SortedByCoordinate \
 --outSAMunmapped Within \
+--limitBAMsortRAM 2200000000 \
 --outSAMattributes Standard
 
