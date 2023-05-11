@@ -2,7 +2,7 @@
 #SBATCH -A uppmax2023-2-8
 #SBATCH -M snowy
 #SBATCH -p core
-#SBATCH -n 8
+#SBATCH -n 16
 #SBATCH -t 01:00:00
 #SBATCH -J leono_STAR
 #SBATCH --mail-type=ALL
@@ -13,17 +13,18 @@ module load star
 
 # Your commands
 cd $SNIC_TMP
-STAR --runThreadN 8 \
+STAR --runThreadN 16 \
 --runMode genomeGenerate \
---genomeDir /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping \
---genomeFastaFiles /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/01_genome_assembly/corrected_assembly/Corrected_assembly.fasta \
+--genomeDir /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapping_for_differential_expression/Aril_3 \
+--genomeFastaFiles /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/Andreas/FilerTillLeo/durian_pilon.fasta.masked \
+--sjdbGTFfile /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/code/augustus.hints.gtf \
 --genomeSAindexNbases 11
 
-STAR --runThreadN 8 \
+STAR --runThreadN 16 \
 --readFilesIn /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/data/trimmed_data/MusangKing_Aril_3.1.fq.gz /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/data/trimmed_data/MusangKing_Aril_3.2.fq.gz \
 --readFilesCommand gunzip -c \
---genomeDir /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping \
---outFileNamePrefix /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapped_transcript_RNA_ \
+--genomeDir /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapping_for_differential_expression/Aril_3 \
+--outFileNamePrefix /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapping_for_differential_expression/Aril_3/Aril_3_mapped_ \
 --outSAMtype BAM SortedByCoordinate \
 --outSAMunmapped Within \
 --outSAMattributes Standard
