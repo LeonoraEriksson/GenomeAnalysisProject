@@ -1,0 +1,6 @@
+Aril_1	Aril	Fruit
+Aril_2	Aril	Fruit
+Aril_3	Aril	Fruit
+Leaf	Leaf	No_fruit
+Root	Root	No_fruit
+Stem	Leaf	No_fruit

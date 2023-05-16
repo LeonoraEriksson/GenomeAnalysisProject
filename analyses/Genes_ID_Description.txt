@@ -1,0 +1,1889 @@
+1000_t	Gag-pro-like protein
+1001_t	Uncharacterized protein K02A2.6-like
+1003_t	Uncharacterized protein K02A2.6-like
+1004_t	calcium-dependent protein kinase
+1005_t	UDP-galactose UDP-glucose transporter
+1006_t	-
+1008_t	ethylene-responsive transcription factor
+101_t	Plant pleckstrin homology-like region
+1010_t	Belongs to the multi antimicrobial extrusion (MATE) (TC 2.A.66.1) family
+1011_t	F-Box protein
+1012_t	Belongs to the GRAS family
+1013_t	IQ-domain
+1014_t	Inactive rhomboid protein
+1015_t	Inactive rhomboid protein
+1016_t	IQ-domain
+1017_t	UBX domain-containing protein
+102_t	Formyltetrahydrofolate deformylase
+1021_t	RING-H2 finger protein
+1022_t	ubiquitin-protein transferase activity
+1023_t	RING-H2 finger protein
+1024_t	Long chain acyl-CoA synthetase
+1025_t	phosphatase 2C
+1026_t	Endoglucanase
+1028_t	transcription factor
+1029_t	Belongs to the eukaryotic-type primase small subunit family
+103_t	Catalyzes the formation of phosphatidylethanolamine (PtdEtn) from phosphatidylserine (PtdSer). Plays a central role in phospholipid metabolism and in the interorganelle trafficking of phosphatidylserine
+1030_t	Abscisic acid receptor
+1031_t	Polygalacturonase
+1032_t	inactive receptor kinase
+1033_t	WRKY Transcription Factor
+1035_t	transposition, RNA-mediated
+1036_t	DNA RNA polymerases superfamily protein
+1037_t	transposition, RNA-mediated
+1038_t	Belongs to the formin-like family
+1039_t	Belongs to the formin-like family
+104_t	Oxidoreductase family, C-terminal alpha/beta domain
+1040_t	RING U-box superfamily protein
+1042_t	Microtubule-associated protein
+1044_t	endonuclease activity
+1046_t	Mitochondrial protein
+1047_t	BTB POZ domain-containing protein
+1048_t	Hydroxyproline-rich glycoprotein family protein
+1049_t	Aminopeptidase
+105_t	Belongs to the eukaryotic ribosomal protein eL15 family
+1050_t	Sin3 binding region of histone deacetylase complex subunit SAP30
+1052_t	Subunit of clathrin-associated adaptor protein complex that plays a role in protein sorting in the late-Golgi trans-Golgi network (TGN) and or endosomes. The AP complexes mediate both the recruitment of clathrin to membranes and the recognition of sorting signals within the cytosolic tails of transmembrane cargo molecules
+1053_t	DNA repair helicase
+1054_t	Zinc finger protein CONSTANS-like
+1055_t	-
+1056_t	E3 ubiquitin-protein ligase
+1057_t	V-type proton ATPase subunit
+1058_t	BTB POZ domain-containing protein
+106_t	-
+1060_t	ribonuclease H protein
+1061_t	Myo-inositol oxygenase
+1063_t	PLATZ transcription factor family protein
+1064_t	-
+1065_t	-
+1066_t	Belongs to the peptidase C19 family
+1068_t	transcription factor
+1069_t	-
+107_t	isoform X1
+1070_t	Chaperone protein DNAj
+1071_t	Belongs to the peptidase A1 family
+1073_t	Phosphatidylinositol phosphatidylcholine transfer protein SFH11
+1074_t	Vesicle-associated protein
+1075_t	isoform X1
+1076_t	Belongs to the GRAS family
+1078_t	Belongs to the LDH MDH superfamily
+1079_t	protease inhibitor seed storage lipid transfer protein (LTP) family protein
+108_t	Glycosyltransferase
+1081_t	NADH dehydrogenase ubiquinone 1 beta subcomplex subunit 8
+1082_t	Oxysterol-binding protein-related protein
+1083_t	E3 ubiquitin-protein ligase
+1084_t	E3 ubiquitin-protein ligase
+1085_t	-
+1086_t	Zinc finger protein CONSTANS-like
+1088_t	Phosphatidylinositol 4-kinase
+109_t	transcription factor
+1090_t	zinc finger
+1091_t	Belongs to the disease resistance NB-LRR family
+1092_t	ADP binding
+1093_t	Transcription factor
+1094_t	At1g66480-like
+1095_t	Belongs to the ClpA ClpB family
+1096_t	dual specificity protein phosphatase
+1097_t	Belongs to the peptidase S10 family
+1098_t	-
+1099_t	Belongs to the mitochondrial carrier (TC 2.A.29) family
+110_t	Belongs to the acyl-CoA oxidase family
+1100_t	transcription factor
+1102_t	sialylation
+1103_t	DNA-binding protein
+1105_t	-
+1106_t	Transcription factor that specifically binds AT-rich DNA sequences related to the nuclear matrix attachment regions (MARs)
+111_t	-
+1110_t	Transcriptional regulator
+1111_t	acetylornithine
+1112_t	CAAX protease self-immunity
+1113_t	PHD zinc finger
+1114_t	leucine-rich repeat extensin-like protein
+1115_t	Transcriptional regulator
+1117_t	transposition, RNA-mediated
+1120_t	Uncharacterized protein K02A2.6-like
+1122_t	transcription factor
+1123_t	Germin-like protein subfamily T member
+1124_t	RINT1-like protein MAG2
+1125_t	F-box kelch-repeat protein
+1126_t	transposition, RNA-mediated
+1127_t	Belongs to the mitochondrial carrier (TC 2.A.29) family
+1128_t	-
+1129_t	Belongs to the peptidase S10 family
+113_t	transcription factor
+1130_t	dual specificity protein phosphatase
+1133_t	Cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+1138_t	assists the folding of proteins upon ATP hydrolysis
+1139_t	PolyA polymerase
+114_t	Nuclear pore complex assembly
+1140_t	transcription by RNA polymerase II
+1141_t	Protein of unknown function, DUF599
+1142_t	Zinc knuckle
+115_t	Protein of unknown function (DUF1639)
+1153_t	Ribosomal protein S14p/S29e
+1154_t	Ribosomal protein L2
+1155_t	-
+1156_t	RIBOSOMAL protein
+116_t	Homeobox-leucine zipper protein
+1163_t	Retrotransposon gag protein
+1164_t	transposition, RNA-mediated
+1166_t	transcription factor
+1167_t	-
+1168_t	Exportin 1-like protein
+1169_t	Cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+117_t	Hydroxyproline-rich glycoprotein family protein
+1170_t	Transportin-3
+1171_t	Cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+1172_t	transposition, RNA-mediated
+1173_t	Transportin-3
+1174_t	-
+1176_t	ethylene-responsive transcription factor
+1177_t	Structural maintenance of chromosomes
+1178_t	Cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+1179_t	F-box protein
+118_t	Pentatricopeptide repeat-containing protein
+1180_t	phosphotransferase activity, carboxyl group as acceptor
+1181_t	Belongs to the MIP aquaporin (TC 1.A.8) family
+1182_t	DNA RNA polymerases superfamily protein
+1183_t	Gag pol polyprotein
+1185_t	LRR receptor-like serine threonine-protein kinase
+1186_t	Belongs to the MIP aquaporin (TC 1.A.8) family
+1187_t	phosphotransferase activity, carboxyl group as acceptor
+1188_t	phosphotransferase activity, carboxyl group as acceptor
+1189_t	Belongs to the MIP aquaporin (TC 1.A.8) family
+119_t	dual specificity protein phosphatase
+1190_t	Cell number regulator
+1191_t	Luc7-like protein 3
+1192_t	glycerol-3-phosphate transporter
+1193_t	Subtilisin-like protease
+1195_t	alpha-L-fucosidase 1-like
+1196_t	cytochrome P450
+1197_t	Pentatricopeptide repeat-containing protein
+1198_t	Belongs to the DEAD box helicase family
+1199_t	Embryo-specific protein 3, (ATS3)
+120_t	Palmitoyl-protein thioesterase
+1205_t	6-phosphogluconolactonase
+1206_t	GTPase-activating protein
+1207_t	Cytochrome b5
+1208_t	metal-nicotianamine transporter
+1209_t	Belongs to the universal ribosomal protein uS15 family
+121_t	C1 domain
+1210_t	receptor-like serine threonine-protein kinase
+1211_t	Protein of unknown function (DUF1442)
+1214_t	rRNA-processing protein EBP2 homolog
+1215_t	-
+1216_t	AT hook motif DNA-binding family protein
+1217_t	65-kDa microtubule-associated protein
+1218_t	Clp protease-related protein At4g12060
+1219_t	Belongs to the peptidase M18 family
+122_t	ATP synthase subunit beta
+1220_t	Belongs to the adenylate kinase family
+1221_t	Nucleolar protein
+1222_t	argininosuccinate synthase
+1223_t	Protein ROOT INITIATION DEFECTIVE 3-like
+1224_t	cycloeucalenol cycloisomerase
+1225_t	Protein ROOT INITIATION DEFECTIVE 3-like
+1226_t	calcium-binding protein
+1227_t	belongs to the uridine kinase family
+1228_t	AAA-type ATPase family protein
+1229_t	Belongs to the adaptor complexes medium subunit family
+123_t	Nudix hydrolase
+1230_t	Ferredoxins are iron-sulfur proteins that transfer electrons in a wide variety of metabolic reactions
+1231_t	regulation of plant-type hypersensitive response
+1232_t	Plant intracellular Ras-group-related LRR protein
+1233_t	MND1-interacting protein
+1235_t	Aluminum-activated malate transporter
+1236_t	TLD
+1237_t	NAC domain-containing protein
+1238_t	Protein ABCI7, chloroplastic
+1239_t	phosphatase 2C
+124_t	transcription factor
+1242_t	Protein BYPASS1-related
+1243_t	transcription factor
+1244_t	40S ribosomal protein
+1245_t	Belongs to the glycosyl hydrolase 28 family
+1246_t	SPIRAL1-like 5
+1247_t	-
+1248_t	Glycosyltransferase-like protein
+1249_t	Homeobox protein BEL1 homolog
+125_t	D-mannose binding lectin
+1251_t	Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin Fzo YdjA family
+1252_t	UDP-glucose 4-epimerase
+1253_t	Nucleoside diphosphate kinase
+1254_t	-
+1255_t	-
+1256_t	E3 ubiquitin-protein ligase
+1257_t	Belongs to the protein kinase superfamily. Ser Thr protein kinase family
+1258_t	Heat stress transcription factor
+1259_t	-
+126_t	Ubiquitin carboxyl-terminal hydrolase
+1263_t	-
+1264_t	NDH shuttles electrons from NAD(P)H plastoquinone, via FMN and iron-sulfur (Fe-S) centers, to quinones in the photosynthetic chain and possibly in a chloroplast respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be plastoquinone. Couples the redox reaction to proton translocation, and thus conserves the redox energy in a proton gradient
+1265_t	NDH shuttles electrons from NAD(P)H plastoquinone, via FMN and iron-sulfur (Fe-S) centers, to quinones in the photosynthetic chain and possibly in a chloroplast respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be plastoquinone. Couples the redox reaction to proton translocation, and thus conserves the redox energy in a proton gradient
+1266_t	ATP synthase subunit beta
+1267_t	RuBisCO catalyzes two reactions the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate in the photorespiration process. Both reactions occur simultaneously and in competition at the same active site
+1268_t	This b-type cytochrome is tightly associated with the reaction center of photosystem II (PSII). PSII is a light-driven water plastoquinone oxidoreductase that uses light energy to abstract electrons from H(2)O, generating O(2) and a proton gradient subsequently used for ATP formation. It consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation
+1269_t	Encoded by
+127_t	Phospholipase A1-Ibeta2
+1270_t	One of the components of the core complex of photosystem II (PSII). It binds chlorophyll and helps catalyze the primary light-induced photochemical processes of PSII. PSII is a light- driven water plastoquinone oxidoreductase, using light energy to abstract electrons from H(2)O, generating O(2) and a proton gradient subsequently used for ATP formation
+1271_t	cytochrome b6
+1272_t	Bacterial RNA polymerase, alpha chain C terminal domain
+1273_t	Ribosomal protein L14p/L23e
+1274_t	Belongs to the universal ribosomal protein uL16 family
+1275_t	Belongs to the universal ribosomal protein uS3 family
+1276_t	Ribosomal Proteins L2, C-terminal domain
+1277_t	Ycf1
+1278_t	Belongs to the glycosyl hydrolase 28 family
+1279_t	Plectin/S10 domain
+128_t	Plasminogen activator inhibitor 1 RNA-binding
+1280_t	CDPK-related kinase
+1283_t	-
+1285_t	Succinate dehydrogenase subunit
+1287_t	calmodulin binding protein
+1288_t	glycine-rich RNA-binding
+1289_t	transposition, RNA-mediated
+129_t	Ras-related protein
+1290_t	transposition, RNA-mediated
+1292_t	Domain of unknown function (DUF4283)
+1293_t	RING FYVE PHD zinc finger superfamily protein
+1294_t	arabinosyltransferase ARAD1
+1295_t	Mini zinc finger protein
+1296_t	RNA polymerase-associated protein
+1299_t	isoform X1
+13_t	Calcineurin-like phosphoesterase
+130_t	endonuclease activity
+1300_t	40s ribosomal protein
+1301_t	Diacylglycerol kinase
+1302_t	Mitochondrial protein
+1303_t	-
+1304_t	UDP-glucose 6-dehydrogenase
+1305_t	ELM2 domain-containing protein
+1307_t	isoform X1
+1309_t	Belongs to the formin-like family
+131_t	Vesicle-associated protein
+1310_t	-
+1311_t	cleavage and polyadenylation specificity factor subunit
+1312_t	LON peptidase N-terminal domain and RING finger protein
+1313_t	Protein BYPASS1-related
+1314_t	transcription factor
+1315_t	isoform X1
+1316_t	SSXT protein (N-terminal region)
+1317_t	-
+1319_t	growth-regulating factor
+132_t	glycerol-3-phosphate transporter
+1321_t	Domain of unknown function (DUF4228)
+1322_t	RNA recognition motif
+1323_t	Polyadenylate-binding protein-interacting protein
+1324_t	Serine arginine-rich splicing factor
+1325_t	growth-regulating factor
+1327_t	aminotransferase
+1329_t	Cell cycle regulated microtubule associated protein
+133_t	Vesicle-associated protein
+1330_t	Belongs to the protein kinase superfamily. Ser Thr protein kinase family
+1331_t	transposition, RNA-mediated
+1333_t	gag-polypeptide of LTR copia-type
+1335_t	Belongs to the protein kinase superfamily. Ser Thr protein kinase family
+1338_t	K( ) efflux antiporter
+1339_t	Ribonuclease H protein
+134_t	Belongs to the BI1 family
+1340_t	Protein PLANT CADMIUM RESISTANCE
+1341_t	Nudix hydrolase
+1342_t	YGGT family
+1343_t	RING-type E3 ubiquitin transferase
+1345_t	MADS-box protein
+1347_t	Protein PHR1-LIKE 1-like isoform
+1348_t	transcription factor
+1349_t	Belongs to the glycosyltransferase 8 family
+135_t	Protein BUD31 homolog
+1350_t	Belongs to the sulfotransferase 1 family
+1351_t	binding protein 2c
+1353_t	LRR receptor-like serine threonine-protein kinase
+1354_t	Belongs to the MIP aquaporin (TC 1.A.8) family
+1356_t	-
+1357_t	source UniProtKB
+1358_t	respiratory burst oxidase homolog protein
+1359_t	LURP-one-related
+136_t	GATA transcription factor
+1360_t	isoform X1
+1361_t	Serine threonine-protein phosphatase essential for chromosomal dynamics during meiosis and mitosis. Antagonizes the function of air-2 in the regulation of chromosome cohesion. Dephosphorylates histone H3 at 'Ser-10'. Also involved in the activation of chloride channel clh-3 during cell swelling and meiotic maturation. Essential for embryogenesis
+1362_t	D111 G-patch domain-containing protein
+1363_t	DET1- and DDB1-associated protein
+1366_t	1-aminocyclopropane-1-carboxylate
+1367_t	Fk506-binding protein
+1368_t	Protein of unknown function (DUF1666)
+1369_t	(NAC) domain-containing protein
+1371_t	Transcription termination and cleavage factor C-terminal
+1372_t	Chloroplastic group IIA intron splicing facilitator CRS1
+1373_t	VQ motif-containing protein
+1374_t	Transcription factor BEE
+138_t	histone-lysine N-methyltransferase, H3 lysine-9 specific
+1389_t	Uncharacterized protein K02A2.6-like
+139_t	COP9 signalosome complex subunit
+1392_t	longifolia
+140_t	Belongs to the expansin family
+1403_t	Uncharacterized protein K02A2.6-like
+1406_t	integral membrane HPP family protein
+1408_t	ADP binding
+1409_t	Retrotransposon gag protein
+141_t	Ankyrin repeat-containing protein
+1410_t	DNA RNA polymerases superfamily protein
+1412_t	-
+1419_t	Reverse transcriptase (RNA-dependent DNA polymerase)
+142_t	aminohydrolase
+1430_t	Mitochondrial protein
+1431_t	transferase activity, transferring hexosyl groups
+1435_t	AP-4 complex subunit
+1436_t	-
+1437_t	AP-4 complex subunit
+1438_t	Reticulon-like protein
+144_t	cationic amino acid transporter
+1440_t	L-Ala-D L-amino acid
+1444_t	Uncharacterized protein K02A2.6-like
+1446_t	40s ribosomal protein
+1447_t	Diacylglycerol kinase
+1448_t	Mitochondrial protein
+145_t	Phospho-2-dehydro-3-deoxyheptonate aldolase
+1451_t	serine threonine-protein kinase
+1452_t	serine threonine-protein kinase
+1454_t	-
+1455_t	-
+1456_t	Encoded by
+1457_t	NADH dehydrogenase (Ubiquinone) iron-sulfur protein
+1458_t	Respiratory-chain NADH dehydrogenase, 49 Kd subunit
+1459_t	Retrotransposon gag protein
+146_t	belongs to the protein kinase superfamily
+1462_t	transposition, RNA-mediated
+1463_t	-
+1464_t	Microtubule-associated protein
+1465_t	LRR receptor-like serine threonine-protein kinase
+1466_t	LRR receptor-like serine threonine-protein kinase
+1468_t	Uncharacterized protein K02A2.6-like
+1469_t	transposition, RNA-mediated
+147_t	calcineurin b-like protein
+1470_t	Gag-pro-like protein
+1471_t	U-box domain-containing protein
+1472_t	ZINC FINGER protein
+1473_t	Cell division cycle 20.2, cofactor of APC complex-like
+1475_t	Peptidyl-prolyl cis-trans isomerase
+1476_t	E3 ubiquitin-protein ligase
+1478_t	Transcription factor
+1479_t	galactoside
+148_t	Encoded by
+1480_t	Ribulose-phosphate 3-epimerase
+1481_t	NEP1-interacting protein-like 2
+1482_t	exonuclease
+1483_t	serine threonine-protein kinase
+1484_t	Rhodanese-like domain-containing protein 11
+1485_t	Domain of unknown function (DUF1929)
+1486_t	kDa ribonucleoprotein
+1487_t	protein-L-isoaspartate O-methyltransferase
+1488_t	Mitochondrial domain of unknown function (DUF1713)
+1489_t	-
+1490_t	Belongs to the glycosyl hydrolase 1 family
+1491_t	cyclin-dependent kinase
+1493_t	-
+1494_t	Transcription factor
+1495_t	Ribosomal protein S1-like RNA-binding domain
+1496_t	chitin binding
+1498_t	conserved protein UCP012943
+1499_t	Protein RFT1 homolog
+15_t	mitochondrial protein AtMg00810-like
+150_t	novel plant snare
+1500_t	Mitochondrial protein
+1501_t	Belongs to the protein kinase superfamily. Ser Thr protein kinase family
+1502_t	Zinc finger protein
+1504_t	Uncharacterized protein K02A2.6-like
+1505_t	calcium-binding protein
+1506_t	protein serine/threonine kinase activity
+1507_t	Belongs to the 'GDSL' lipolytic enzyme family
+1508_t	Geranylgeranyl diphosphate reductase
+151_t	beta-amylase
+1510_t	Malate dehydrogenase
+1511_t	RWP-RK domain
+1512_t	gag-polypeptide of LTR copia-type
+1514_t	Belongs to the cytochrome P450 family
+1515_t	Belongs to the ClpA ClpB family
+1517_t	serine threonine-protein kinase
+1518_t	-
+1519_t	-
+152_t	Vacuolar protein sorting-associated protein 53
+1520_t	Belongs to the small Tim family
+1521_t	Belongs to the DHHC palmitoyltransferase family
+1522_t	Vacuolar fusion protein
+1523_t	At5g48480
+1524_t	Vacuolar fusion protein
+1525_t	domain-containing protein
+1526_t	Long chain base biosynthesis protein
+1527_t	Armadillo beta-catenin repeat family protein
+1528_t	Belongs to the Casparian strip membrane proteins (CASP) family
+1529_t	Belongs to the ubiquitin-conjugating enzyme family
+1531_t	Protein of unknown function (DUF789)
+1532_t	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family
+1534_t	L-Ala-D L-amino acid
+1538_t	cytochrome c biosynthesis ccmC-like mitochondrial
+154_t	Regulator of nonsense transcripts 1 homolog
+1548_t	BEST Arabidopsis thaliana protein match is Mitovirus RNA-dependent RNA polymerase (TAIR
+155_t	invertase inhibitor
+1550_t	MADS-box protein
+1551_t	Thioredoxin-like 1-2, chloroplastic
+1552_t	G-type lectin S-receptor-like serine threonine-protein kinase SD2-5
+1553_t	Long chain base biosynthesis protein
+1554_t	Armadillo beta-catenin repeat family protein
+1555_t	Belongs to the Casparian strip membrane proteins (CASP) family
+1556_t	-
+1557_t	E3 ubiquitin-protein ligase
+1558_t	replication factor C
+1559_t	Ribonuclease H protein
+156_t	inhibitor
+1566_t	golgin candidate
+157_t	Mitochondrial protein
+1571_t	Retrotransposon gag protein
+1573_t	-
+1575_t	Pectate lyase
+1576_t	BTB POZ and TAZ domain-containing protein
+1577_t	Peptidase family C78
+158_t	purine permease
+1585_t	Zinc finger BED domain-containing protein
+1587_t	calmodulin binding protein
+1588_t	Core-2 I-branching beta-1,6-N-acetylglucosaminyltransferase family protein
+1589_t	Uncharacterized protein K02A2.6-like
+159_t	Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin Fzo YdjA family
+1594_t	Core subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I) that is believed to belong to the minimal assembly required for catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone
+16_t	Endosomal targeting BRO1-like domain-containing protein
+160_t	Haloacid dehalogenase-like hydrolase domain-containing protein Sgpp
+1604_t	golgin candidate
+1605_t	Gamma carbonic anhydrase-like
+1606_t	Belongs to the glycosyl hydrolase 47 family
+1607_t	Ribonuclease H protein
+1608_t	ATP synthase A chain
+161_t	Belongs to the expansin family
+1612_t	Transcription factor
+1613_t	galactoside
+1614_t	Ribulose-phosphate 3-epimerase
+1615_t	zinc finger
+1616_t	transcription factor
+1617_t	At1g04910-like
+162_t	13-prostaglandin reductase activity
+1620_t	BSD domain-containing protein
+1621_t	Sterile alpha motif.
+1622_t	Branchpoint-bridging
+1623_t	Embryo-specific protein 3, (ATS3)
+1624_t	2-amino-3-ketobutyrate coenzyme A ligase
+1625_t	DYAD-like
+1626_t	DYAD-like
+1627_t	intracellular protein transport protein
+1628_t	-
+1629_t	Belongs to the mitochondrial carrier (TC 2.A.29) family
+163_t	Vacuolar protein sorting-associated protein 55 homolog
+1630_t	protein trichome birefringence-like
+1631_t	Cytochrome c oxidase is the component of the respiratory chain that catalyzes the reduction of oxygen to water. Subunits 1- 3 form the functional core of the enzyme complex. Subunit 2 transfers the electrons from cytochrome c via its binuclear copper A center to the bimetallic center of the catalytic subunit 1
+164_t	methyltransferase PMT14
+1640_t	-
+1645_t	Plant protein of unknown function (DUF825)
+1646_t	-
+1648_t	transposition, RNA-mediated
+1651_t	Endoplasmic reticulum membrane protein
+1652_t	(NAC) domain-containing protein
+1653_t	serine threonine-protein kinase
+1654_t	eukaryotic translation initiation factor
+1655_t	At5g01610-like
+1656_t	Protein WEAK CHLOROPLAST MOVEMENT UNDER BLUE
+1658_t	LRR receptor-like serine threonine-protein kinase
+1659_t	Late embryogenesis abundant protein
+166_t	Two-component response regulator-like
+1660_t	late embryogenesis abundant
+1661_t	respiratory burst oxidase homolog protein
+1663_t	SPA1-related
+1664_t	Crooked neck-like protein 1
+1665_t	Belongs to the UDP-glycosyltransferase family
+1666_t	Belongs to the UDP-glycosyltransferase family
+1667_t	Lysosomal Pro-X carboxypeptidase-like
+1669_t	Gag-pro-like protein
+167_t	tobamovirus multiplication protein
+1677_t	Retrotransposon gag protein
+1678_t	-
+168_t	Zinc finger BED domain-containing protein RICESLEEPER
+1689_t	(NAC) domain-containing protein
+169_t	ribose-phosphate pyrophosphokinase
+1690_t	Endoplasmic reticulum membrane protein
+1691_t	dof zinc finger protein
+1692_t	-
+1693_t	protease
+1694_t	LRR receptor-like serine threonine-protein kinase
+1695_t	BAG family molecular chaperone regulator
+1696_t	E3 ubiquitin protein ligase
+1697_t	glycerol-3-phosphate transporter
+1698_t	-
+1699_t	AP-4 complex subunit
+17_t	transposition, RNA-mediated
+1708_t	Reverse transcriptase (RNA-dependent DNA polymerase)
+1709_t	CS domain
+171_t	Protein NRT1 PTR FAMILY
+1710_t	O-acyltransferase (WSD1-like)
+1711_t	O-acyltransferase (WSD1-like)
+172_t	-
+1723_t	Universal stress protein
+1724_t	-
+1726_t	Reverse transcriptase-like
+173_t	BAHD acyltransferase At5g47980-like
+1734_t	glycosyltransferase
+1735_t	Protein YIPF1 homolog
+1737_t	transposition, RNA-mediated
+174_t	The H protein shuttles the methylamine group of glycine from the P protein to the T protein
+1741_t	transposition, RNA-mediated
+1746_t	transposition, RNA-mediated
+1747_t	transposition, RNA-mediated
+1748_t	DNA RNA polymerases superfamily protein
+175_t	atg2484-1,g2484-1
+1750_t	cytochrome c oxidase subunit 3
+1751_t	Uncharacterized protein K02A2.6-like
+1753_t	Subunits I, II and III form the functional core of the enzyme complex
+1754_t	Uncharacterized protein K02A2.6-like
+1757_t	Geranylgeranyl diphosphate reductase
+1758_t	Belongs to the 'GDSL' lipolytic enzyme family
+1759_t	protein serine/threonine kinase activity
+1760_t	protease
+1761_t	gag-polypeptide of LTR copia-type
+1762_t	transposition, RNA-mediated
+1763_t	Retrotransposon gag protein
+177_t	Plant pleckstrin homology-like region
+1770_t	ubiquitin binding
+1773_t	DNA RNA polymerases superfamily protein
+1774_t	DNA RNA polymerases superfamily protein
+1776_t	Uncharacterized protein K02A2.6-like
+1777_t	Uncharacterized protein K02A2.6-like
+1778_t	Encoded by
+1779_t	embryogenesis-associated protein
+178_t	Formyltetrahydrofolate deformylase
+1780_t	Protein of unknown function, DUF538
+1781_t	WRKY Transcription Factor
+1784_t	Uncharacterized protein K02A2.6-like
+1787_t	Uncharacterized protein K02A2.6-like
+1788_t	-
+179_t	Agamous-like MADS-box protein
+1796_t	transposition, RNA-mediated
+1797_t	transposition, RNA-mediated
+18_t	Belongs to the group II decarboxylase family
+180_t	Removes the phosphate from trehalose 6-phosphate to produce free trehalose
+1802_t	glycosyltransferase
+1803_t	-
+1804_t	Uncharacterized protein K02A2.6-like
+181_t	Transaldolase
+1811_t	Uncharacterized protein K02A2.6-like
+1815_t	Uncharacterized protein K02A2.6-like
+1821_t	DNA-directed DNA polymerase activity
+183_t	Belongs to the glycosyl hydrolase 32 family
+1833_t	-
+184_t	Monocopper oxidase-like protein
+1843_t	DNA RNA polymerases superfamily protein
+1844_t	transposition, RNA-mediated
+1845_t	transposition, RNA-mediated
+1854_t	transposition, RNA-mediated
+1855_t	transposition, RNA-mediated
+1856_t	-
+1862_t	DNA RNA polymerases superfamily protein
+187_t	Protein FAR-RED ELONGATED HYPOCOTYL
+1871_t	Auxin response factors (ARFs) are transcriptional factors that bind specifically to the DNA sequence 5'-TGTCTC-3' found in the auxin-responsive promoter elements (AuxREs)
+1873_t	-
+1875_t	-
+1877_t	ELM2 domain-containing protein
+1878_t	Gag-pro-like protein
+1879_t	Uncharacterized protein K02A2.6-like
+188_t	Purple acid phosphatase
+1880_t	-
+1881_t	Uncharacterized protein K02A2.6-like
+1883_t	Belongs to the MIP aquaporin (TC 1.A.8) family
+1884_t	LRR receptor-like serine threonine-protein kinase
+1885_t	Belongs to the MIP aquaporin (TC 1.A.8) family
+1886_t	LRR receptor-like serine threonine-protein kinase
+1887_t	-
+189_t	Protein of unknown function (DUF760)
+1891_t	Lysosomal Pro-X carboxypeptidase-like
+1892_t	Belongs to the oxygen-dependent FAD-linked oxidoreductase family
+1893_t	Belongs to the oxygen-dependent FAD-linked oxidoreductase family
+1894_t	LRR receptor-like serine threonine-protein kinase
+1896_t	LRR receptor-like serine threonine-protein kinase
+1897_t	Belongs to the GRAS family
+1898_t	Belongs to the GRAS family
+1899_t	phosphoglycerate
+1900_t	piezo-type mechanosensitive ion channel homolog
+1901_t	-
+1902_t	-
+1903_t	DNA RNA polymerases superfamily protein
+1906_t	4-coumarate-coa ligase
+1907_t	4-coumarate-coa ligase
+191_t	Uncharacterized protein K02A2.6-like
+1910_t	gag-polypeptide of LTR copia-type
+1912_t	transposition, RNA-mediated
+1914_t	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family
+1916_t	Receptor protein kinase
+1917_t	Receptor protein kinase
+1918_t	Gag-pro-like protein
+1919_t	Belongs to the metallo-dependent hydrolases superfamily. Adenosine and AMP deaminases family
+192_t	RING-type E3 ubiquitin transferase
+1927_t	Uncharacterized protein K02A2.6-like
+193_t	-
+194_t	3,4-dihydroxy-2-butanone kinase
+1942_t	transposition, RNA-mediated
+1946_t	transposition, RNA-mediated
+1947_t	transposition, RNA-mediated
+1948_t	DNA RNA polymerases superfamily protein
+195_t	N-acetyl-D-glucosamine kinase-like
+196_t	Cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+197_t	3,4-dihydroxy-2-butanone kinase
+1972_t	Uncharacterized protein K02A2.6-like
+1973_t	Gag-pro-like protein
+1974_t	Retrotransposon gag protein
+1976_t	serine threonine-protein phosphatase
+1981_t	dCTP pyrophosphatase 1-like
+1982_t	Belongs to the hexokinase family
+1984_t	-
+1985_t	expressed protein
+1986_t	ADP-ribosylation factor GTPase-activating protein
+1989_t	Mitovirus RNA-dependent RNA polymerase
+199_t	transposition, RNA-mediated
+1994_t	calcium-dependent protein kinase
+1995_t	SPA1-related
+1998_t	Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin Fzo YdjA family
+1999_t	Late embryogenesis abundant protein
+2_t	reveille
+20_t	transcription factor
+2000_t	Phosphatidylinositol 4-kinase gamma
+2001_t	Formamidopyrimidine-DNA glycosylase
+2002_t	methionine
+2003_t	Belongs to the oxygen-dependent FAD-linked oxidoreductase family
+2005_t	AT hook motif-containing protein
+2006_t	AT hook motif-containing protein
+2007_t	Uncharacterized protein K02A2.6-like
+2010_t	-
+2011_t	Methyltransferase
+2012_t	tRNA wybutosine-synthesizing protein 2 3
+2015_t	-
+2016_t	-
+2018_t	transposition, RNA-mediated
+2019_t	-
+202_t	organic cation carnitine
+2020_t	-
+2022_t	Chloroplastic group IIA intron splicing facilitator CRS1
+2023_t	Transcription termination and cleavage factor C-terminal
+2024_t	DVL family
+2025_t	Retrotransposon gag protein
+2027_t	Uncharacterized protein K02A2.6-like
+2028_t	glycine rich nucleic binding domain
+203_t	Monoglyceride
+2030_t	Belongs to the disease resistance NB-LRR family
+2033_t	GAG-pre-integrase domain
+2036_t	Peptidyl-prolyl cis-trans isomerase
+2038_t	Belongs to the UDP-glycosyltransferase family
+2041_t	Protein of unknown function (DUF1218)
+2044_t	serine threonine protein kinase IREH1
+2045_t	Protein kinase domain
+2046_t	-
+2047_t	Transcription initiation factor IIF subunit
+2048_t	Belongs to the glycosyl hydrolase 5 (cellulase A) family
+2049_t	U4 U6.U5 tri-snRNP-associated protein
+2058_t	transposition, RNA-mediated
+2059_t	transposition, RNA-mediated
+206_t	transposition, RNA-mediated
+2060_t	DNA RNA polymerases superfamily protein
+2075_t	Uncharacterized protein K02A2.6-like
+208_t	Protein MODIFIER OF SNC1
+2084_t	transposition, RNA-mediated
+209_t	Integrase core domain containing protein
+2092_t	Retrotransposon gag protein
+2093_t	transposition, RNA-mediated
+2106_t	Ribosomal protein S10p/S20e
+2107_t	-
+2109_t	Belongs to the universal ribosomal protein uL14 family
+211_t	Protein SHOOT GRAVITROPISM
+2112_t	Protein of unknown function (DUF760)
+212_t	Sec-independent protein translocase protein TATB
+2124_t	-
+2125_t	Belongs to the GST superfamily
+2127_t	Retrotransposon gag protein
+2129_t	Belongs to the glycosyl hydrolase 47 family
+213_t	Uncharacterized protein K02A2.6-like
+2130_t	Gibberellin-regulated protein
+2131_t	BEST Arabidopsis thaliana protein match is Mitovirus RNA-dependent RNA polymerase (TAIR
+2139_t	One of the components of the core complex of photosystem II (PSII). It binds chlorophyll and helps catalyze the primary light-induced photochemical processes of PSII. PSII is a light- driven water plastoquinone oxidoreductase, using light energy to abstract electrons from H(2)O, generating O(2) and a proton gradient subsequently used for ATP formation
+214_t	BAHD acyltransferase
+2142_t	U-box domain-containing protein
+2144_t	glycine-rich RNA-binding
+2145_t	Thioredoxin-like 1-2, chloroplastic
+2148_t	Aux IAA proteins are short-lived transcriptional factors that function as repressors of early auxin response genes at low auxin concentrations
+2149_t	Belongs to the hexokinase family
+215_t	mediator of RNA polymerase II transcription subunit
+2152_t	Belongs to the cytochrome P450 family
+2153_t	-
+2154_t	G-type lectin S-receptor-like serine threonine-protein kinase SD2-5
+2155_t	ADP binding
+2156_t	G-type lectin S-receptor-like serine threonine-protein kinase SD2-5
+2158_t	Mitochondrial protein
+216_t	Belongs to the multi antimicrobial extrusion (MATE) (TC 2.A.66.1) family
+2163_t	lysM domain receptor-like kinase
+2164_t	cytochrome P450
+2165_t	cyclin-dependent kinase
+2166_t	magnesium protoporphyrin IX methyltransferase
+2167_t	Myb/SANT-like DNA-binding domain
+2168_t	DYAD-like
+2169_t	Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family
+2170_t	Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family
+2171_t	Small G protein family protein RhoGAP
+2175_t	Cell number regulator
+2176_t	Pentatricopeptide repeat-containing protein At4g25270
+2178_t	Gag-pro-like protein
+2179_t	Belongs to the glycosyl hydrolase 18 family
+218_t	Belongs to the GRAS family
+2182_t	Belongs to the glycosyl hydrolase 18 family
+2183_t	Pentatricopeptide repeat-containing protein
+2184_t	-
+2185_t	Pectate lyase
+2186_t	ABC transporter C family member
+2187_t	Belongs to the glycosyltransferase 31 family
+2188_t	-
+2189_t	Protein of unknown function (DUF 659)
+219_t	Belongs to the GRAS family
+2190_t	inactive receptor kinase
+2191_t	Belongs to the glycosyl hydrolase 1 family
+2192_t	heavy chain
+2193_t	-
+2194_t	Uncharacterized protein K02A2.6-like
+2197_t	Belongs to the ubiquitin-conjugating enzyme family
+22_t	transposon protein
+220_t	-
+2200_t	transcription factor
+2203_t	Plastid division protein
+2204_t	Belongs to the mitochondrial carrier (TC 2.A.29) family
+2205_t	-
+2206_t	-
+2207_t	Dihydrofolate synthetase
+2208_t	Transcription factor
+2209_t	RNA polymerase sigma factor
+221_t	Protein of unknown function (DUF819)
+2210_t	RNA polymerase sigma factor
+2211_t	Transcription factor
+2212_t	Mediates both low-affinity uptake and efflux of sugar across the membrane
+2214_t	-
+2215_t	polypyrimidine tract-binding protein
+2216_t	ATP-dependent zinc metalloprotease FTSH 11 chloroplastic
+2217_t	Abscisic acid receptor
+2219_t	Removes the phosphate from trehalose 6-phosphate to produce free trehalose
+222_t	receptor-like protein kinase
+2220_t	DNAJ heat shock N-terminal domain-containing protein
+2221_t	phosphatase 2C
+2222_t	Cyclic nucleotide-gated ion channel 1-like
+2223_t	phosphatase 2C
+2224_t	Pentatricopeptide repeat-containing protein At3g49170
+2225_t	receptor-like protein kinase
+2226_t	UPF0369 protein
+2227_t	glutamate synthase
+2229_t	May be involved in fusion of retrograde transport vesicles derived from an endocytic compartment with the Golgi complex
+223_t	deSI-like protein At4g17486
+2230_t	-
+2231_t	Belongs to the class V-like SAM-binding methyltransferase superfamily. Histone-lysine methyltransferase family. TRX MLL subfamily
+2233_t	CCT motif family protein
+2237_t	Nuclear movement family protein
+2238_t	O-acyltransferase (WSD1-like)
+2239_t	SPX domain-containing membrane protein
+224_t	-
+2240_t	This enzyme condenses acetyl-CoA with acetoacetyl-CoA to form HMG-CoA, which is the substrate for HMG-CoA reductase
+2241_t	Eukaryotic translation initiation factor 2 subunit
+2242_t	Rhamnose biosynthetic enzyme
+2243_t	homeobox protein
+2244_t	homeobox protein
+2245_t	MINDY deubiquitinase
+2246_t	stay-green
+2247_t	FIZZY-related
+2248_t	Protein of unknown function (DUF1191)
+2249_t	Histone deacetylase complex
+225_t	septum site-determining protein minD
+2250_t	Pgr5-like
+2251_t	Belongs to the iron ascorbate-dependent oxidoreductase family
+2252_t	Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family
+2253_t	isoform X1
+2254_t	Belongs to the cytochrome P450 family
+2255_t	transcription, DNA-templated
+2256_t	Sugar phosphate phosphate translocator
+2258_t	Protein TPX2-like isoform X1
+2259_t	aminotransferase
+2261_t	transmembrane protein 64-like
+2262_t	sodium metabolite cotransporter
+2263_t	-
+2264_t	Zinc finger A20 and AN1 domain-containing stress-associated protein
+2265_t	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family
+2266_t	Transcription factor that specifically binds AT-rich DNA sequences related to the nuclear matrix attachment regions (MARs)
+2267_t	calcium-binding protein
+2268_t	Belongs to the multi antimicrobial extrusion (MATE) (TC 2.A.66.1) family
+227_t	Transcription factor ASG4-like
+2270_t	ACT domain containing protein
+2272_t	AT-hook motif nuclear-localized protein
+2273_t	AT-hook motif nuclear-localized protein
+2275_t	ATP-dependent Clp protease proteolytic
+2276_t	Pentatricopeptide repeat-containing protein
+2277_t	endonuclease activity
+2279_t	At4g22758-like
+228_t	Fk506-binding protein
+2281_t	Belongs to the DHHC palmitoyltransferase family
+2282_t	-
+2283_t	Deoxyribodipyrimidine photo-lyase activity. It is involved in the biological process described with DNA repair
+2284_t	Belongs to the STXBP unc-18 SEC1 family
+2285_t	-
+2286_t	Belongs to the DHHC palmitoyltransferase family
+2287_t	glycine-rich protein
+2288_t	Peptidyl-tRNA hydrolase ICT1
+2289_t	Protein of unknown function (DUF1442)
+229_t	DUF21 domain-containing protein
+2290_t	calcium-binding protein
+2291_t	Maspardin
+2292_t	Zinc finger, C2H2 type family protein
+2293_t	amine oxidase
+2294_t	source UniProtKB
+2295_t	-
+2297_t	myb domain protein
+2299_t	Uncharacterized protein K02A2.6-like
+230_t	DUF21 domain-containing protein
+2300_t	FAM10 family protein At4g22670-like
+2301_t	-
+2302_t	21 kDa protein-like
+2303_t	21 kDa protein-like
+2304_t	21 kDa protein-like
+2305_t	hsp70-Hsp90 organizing protein
+2306_t	Auxin responsive protein
+2307_t	(NAC) domain-containing protein
+2308_t	axial regulator YABBY
+231_t	Pentatricopeptide repeat-containing protein
+2310_t	Monocopper oxidase-like protein
+2311_t	Belongs to the glycosyl hydrolase 32 family
+2313_t	Transaldolase
+2314_t	Removes the phosphate from trehalose 6-phosphate to produce free trehalose
+2316_t	Uncharacterized protein K02A2.6-like
+2317_t	-
+2319_t	Seed dormancy control
+232_t	DnaJ protein
+2320_t	3-oxoacyl- acyl-carrier-protein synthase
+2321_t	flavin-containing monooxygenase
+2322_t	isoform X1
+2323_t	Plant zinc cluster domain
+2324_t	Zinc finger protein
+2325_t	Potassium channel
+2327_t	Lipid transfer-like protein VAS
+2329_t	-
+233_t	Tic22-like family
+2330_t	isoform X1
+2331_t	Region found in RelA / SpoT proteins
+2333_t	-
+2334_t	Mitochondrial import inner membrane translocase subunit
+2335_t	Ketose-bisphosphate aldolase class-II family protein
+2336_t	beta-galactosidase
+2337_t	N-acetyl-D-glucosamine kinase-like
+2338_t	Cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+2339_t	Putative sugar-binding N-terminal domain
+234_t	WRKY Transcription Factor
+2340_t	Cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+2341_t	Reverse transcriptase (RNA-dependent DNA polymerase)
+2342_t	Ketose-bisphosphate aldolase class-II family protein
+2343_t	Converts alpha-aldose to the beta-anomer
+2344_t	Belongs to the protein kinase superfamily. Ser Thr protein kinase family
+2345_t	Zinc finger protein VAR3
+2346_t	Prostaglandin E synthase
+2347_t	Ribonuclease H protein
+235_t	NADH dehydrogenase (Ubiquinone) 1 alpha subcomplex subunit 5
+2351_t	Retrotransposon gag protein
+2353_t	WD repeat-containing protein
+2354_t	Translocon at the outer membrane of chloroplasts
+2355_t	Domain of unknown function (DUF4539)
+2356_t	transposition, RNA-mediated
+2357_t	Cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+2358_t	tRNA(His) guanylyltransferase
+2359_t	Domain of unknown function (DUF4539)
+236_t	ABC transporter G family member
+2360_t	ADP-ribosylation factor GTPase-activating protein
+2363_t	Reverse transcriptase-like
+2364_t	May act as a component of the auxin efflux carrier
+2366_t	gag-polypeptide of LTR copia-type
+2370_t	-
+2371_t	Retrotransposon gag protein
+2372_t	Gag-pro-like protein
+2373_t	Uncharacterized protein K02A2.6-like
+2374_t	transposition, RNA-mediated
+2376_t	leucoanthocyanidin
+2378_t	Gag-pro-like protein
+2379_t	zinc finger, C3HC4 type domain containing protein
+238_t	Late embryogenesis abundant protein
+2380_t	Belongs to the PI3 PI4-kinase family
+2381_t	Cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+2384_t	Transcription factor
+2387_t	transposition, RNA-mediated
+2388_t	transposition, RNA-mediated
+2389_t	transposition, RNA-mediated
+239_t	Uncharacterized protein K02A2.6-like
+2390_t	DNA RNA polymerases superfamily protein
+2391_t	Transcription initiation factor TFIID subunit
+2393_t	-
+2394_t	Belongs to the protein kinase superfamily. Ser Thr protein kinase family
+2395_t	Belongs to the eIF-2B alpha beta delta subunits family
+2396_t	phosphoethanolamine N-methyltransferase
+2397_t	Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain
+2398_t	Wuschel-related homeobox
+24_t	Belongs to the oxygen-dependent FAD-linked oxidoreductase family
+2400_t	SCY1-like protein
+2402_t	SCY1-like protein
+2405_t	Domain of unknown function (DUF4216)
+2407_t	Uncharacterized protein K02A2.6-like
+2408_t	thaumatin-like protein
+241_t	membrane-associated kinase regulator
+2412_t	calcium-binding protein
+2413_t	beta-galactosidase
+2414_t	Calmodulin-interacting protein
+2415_t	transcription factor
+2416_t	Holliday junction DNA helicase ruvB N-terminus
+2417_t	transcription factor
+2418_t	Kinase that can phosphorylate various inositol polyphosphate such as Ins(3,4,5,6)P4 or Ins(1,3,4)P3
+2419_t	membrane protein At4g09580
+2421_t	RNA-binding protein
+2422_t	-
+2423_t	F-box protein
+2424_t	Cinnamoyl-CoA reductase
+2425_t	Zinc finger CCCH domain-containing protein
+2426_t	Retrotransposon gag protein
+2427_t	-
+2428_t	Belongs to the oxygen-dependent FAD-linked oxidoreductase family
+2429_t	Ribonuclease H protein
+243_t	Reticulon-like protein
+2430_t	Abnormal spindle-like microcephaly-associated protein homolog
+2431_t	Domain of unknown function (DUF4283)
+2432_t	Belongs to the oxygen-dependent FAD-linked oxidoreductase family
+2433_t	Belongs to the oxygen-dependent FAD-linked oxidoreductase family
+2434_t	Protein phosphatase inhibitor
+2435_t	Belongs to the small GTPase superfamily. Arf family
+2436_t	methyl-CpG-binding domain-containing protein 13
+2437_t	Belongs to the cytochrome b5 family
+2438_t	F-box LRR-repeat protein
+2439_t	Flap endonuclease GEN-like
+244_t	F-Box protein
+2441_t	Cleavage and polyadenylation specificity factor subunit
+2442_t	transcription factor
+2443_t	Remorin-like
+2446_t	transmembrane ascorbate ferrireductase
+2447_t	Belongs to the universal ribosomal protein uS4 family
+2448_t	Pentatricopeptide repeat-containing protein
+2449_t	Copper transport protein family
+2450_t	Gag-pro-like protein
+2451_t	Actin depolymerisation factor/cofilin -like domains
+2452_t	Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain
+2453_t	Belongs to the cytochrome P450 family
+2454_t	signal peptide peptidase-like
+2455_t	Cleavage and polyadenylation specificity factor
+2456_t	Belongs to the eukaryotic ribosomal protein eL36 family
+2457_t	calmodulin-binding heat-shock protein
+2458_t	calmodulin-binding heat-shock protein
+2459_t	At3g49055-like
+246_t	WD repeat-containing protein
+2460_t	U-box domain-containing protein
+2461_t	ZINC FINGER protein
+2462_t	ZINC FINGER protein
+2463_t	Cell division cycle 20.2, cofactor of APC complex-like
+2464_t	ZINC FINGER protein
+2465_t	Cell division cycle 20.2, cofactor of APC complex-like
+2466_t	Mitogen-activated protein kinase kinase kinase
+2468_t	Hydroxyproline-rich glycoprotein family protein
+247_t	Protein timeless homolog
+2470_t	DEAD-box ATP-dependent RNA helicase
+2471_t	Belongs to the Casparian strip membrane proteins (CASP) family
+2472_t	bifunctional UDP-glucose 4-epimerase and UDP-xylose 4-epimerase
+2473_t	thaumatin-like protein
+2474_t	Methyl-CpG binding domain
+2475_t	Recruits TFIIH to the initiation complex and stimulates the RNA polymerase II C-terminal domain kinase and DNA-dependent ATPase activities of TFIIH. Both TFIIH and TFIIE are required for promoter clearance by RNA polymerase
+2476_t	DEAD-box ATP-dependent RNA helicase
+2477_t	Pollen-specific protein
+2478_t	Remorin, C-terminal region
+2479_t	Nuclear transcription factor Y subunit
+248_t	beta-galactosidase
+2480_t	F-Box protein
+2481_t	LURP-one-related
+2483_t	LRR receptor-like serine threonine-protein kinase
+2484_t	RNA-binding protein
+2485_t	Belongs to the actin-binding proteins ADF family
+2486_t	Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain
+2487_t	Serine racemase
+2488_t	Copper-transporting ATPase
+2489_t	xyloglucan galactosyltransferase
+249_t	Protein timeless homolog
+2490_t	DNA-binding protein ESCAROLA
+2491_t	Holliday junction resolvase
+2492_t	lysine-specific demethylase
+2493_t	Serine threonine-protein kinase
+2494_t	NB-ARC domain
+2495_t	serine threonine-protein kinase
+2496_t	Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain
+2497_t	Glutamate-cysteine ligase
+2498_t	Glutamate-cysteine ligase
+25_t	Its function is described as protein serine threonine kinase activity, protein kinase activity, kinase activity, ATP binding
+250_t	Belongs to the pyruvate kinase family
+2500_t	bromo-adjacent homology (BAH) domain-containing protein
+2501_t	Belongs to the mitochondrial carrier (TC 2.A.29) family
+2502_t	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family
+2503_t	-
+2504_t	DNA RNA polymerases superfamily protein
+2505_t	transcription factor
+2506_t	GMP synthase (Glutamine-hydrolyzing)
+2507_t	Protein of unknown function (DUF3741)
+2508_t	-
+2509_t	Belongs to the MIP aquaporin (TC 1.A.8) family
+251_t	Belongs to the glycosyl hydrolase 18 family
+2510_t	Mitogen-activated protein kinase kinase kinase
+2511_t	F-Box protein
+2512_t	pectinesterase
+2513_t	pectinesterase
+2514_t	dipeptidyl peptidase
+2515_t	Pentatricopeptide repeat-containing protein
+2517_t	ATP-dependent Clp protease ATP-binding subunit clpX-like
+2519_t	Protein DEFECTIVE IN MERISTEM SILENCING
+252_t	Pentatricopeptide repeat-containing protein
+2520_t	Belongs to the glycosyltransferase 1 family. Bacterial plant glycogen synthase subfamily
+2521_t	PP2A regulatory subunit
+2522_t	Protein ABIL2-like isoform X1
+2523_t	Alpha/beta hydrolase family
+2524_t	KH domain-containing protein
+2525_t	importin subunit
+2526_t	importin subunit
+2527_t	acyl-CoA-binding domain-containing protein
+2528_t	Lysosomal Pro-X carboxypeptidase-like
+2529_t	Lysosomal Pro-X carboxypeptidase-like
+2530_t	Lysosomal Pro-X carboxypeptidase-like
+2531_t	thylakoid lumenal 17.4 kDa protein
+2532_t	WD repeat-containing protein
+2533_t	dof zinc finger protein
+2534_t	Belongs to the yippee family
+2535_t	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
+2536_t	oligopeptide transporter
+2537_t	RING-type E3 ubiquitin transferase
+2538_t	General transcription factor 3C polypeptide 5-like
+2539_t	Outer envelope pore protein 37
+2541_t	Major Facilitator superfamily
+2542_t	Rhodanese-like domain-containing protein 14
+2543_t	Uncharacterised protein family (UPF0160)
+2544_t	Belongs to the AAA ATPase family
+2545_t	metal-nicotianamine transporter
+2546_t	-
+2549_t	Dehydrogenase
+255_t	Transcription repressor KAN1-like
+2551_t	Dehydrogenase
+2552_t	integral membrane HPP family protein
+2554_t	homeobox-leucine zipper protein
+2556_t	cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+2557_t	Multiple C2 and transmembrane domain-containing protein
+2558_t	Pectate lyase
+2559_t	isochorismate synthase
+2560_t	-
+2562_t	Reverse transcriptase (RNA-dependent DNA polymerase)
+2564_t	Dehydrogenase
+2565_t	ribonuclease H protein At1g65750-like
+2566_t	WRKY transcription factor
+2567_t	-
+2568_t	IQ-domain
+2569_t	Belongs to the VPS29 family
+257_t	Annexin D5-like
+2570_t	belongs to the protein kinase superfamily
+2572_t	Protein YIPF1 homolog
+2573_t	transposition, RNA-mediated
+2575_t	Myb-related protein 308-like
+2576_t	Uncharacterized protein K02A2.6-like
+2578_t	Integrase core domain
+2581_t	Guanine nucleotide-binding protein subunit beta-like protein
+2582_t	E3 ubiquitin-protein ligase
+2583_t	Protein of unknown function (DUF 659)
+2585_t	Peroxisome biogenesis protein
+2590_t	E2F transcription factor-like E2FE
+2592_t	E2F transcription factor-like E2FE
+2593_t	Mannose-1-phosphate guanyltransferase
+2594_t	Belongs to the aldehyde dehydrogenase family
+2595_t	Serine incorporator
+2596_t	Pentatricopeptide repeat-containing protein
+2597_t	anaphase-promoting complex subunit
+2598_t	-
+2599_t	Belongs to the eukaryotic ribosomal protein eS7 family
+2600_t	RECEPTOR-like protein kinase
+2605_t	AMSH-like ubiquitin thioesterase
+2607_t	-
+2608_t	mitochondrial protein AtMg00810-like
+2609_t	finger protein
+261_t	DNA RNA polymerases superfamily protein
+2610_t	Part of the AP-3 complex, an adaptor-related complex which seems to be clathrin-associated. The complex is associated with the Golgi region as well as more peripheral structures. It facilitates the budding of vesicles from the Golgi membrane and may be directly involved in trafficking to the vacuole. It also function in maintaining the identity of lytic vacuoles and in regulating the transition between storage and lytic vacuoles
+2612_t	Core-2 I-branching beta-1,6-N-acetylglucosaminyltransferase family protein
+2613_t	HVA22-like protein
+2614_t	Plays an essential role in chain termination during de novo fatty acid synthesis
+2615_t	Heavy-metal-associated domain
+2616_t	-
+2617_t	-
+2618_t	SUMO-activating enzyme subunit
+2619_t	Cell division cycle
+2620_t	Squamosa promoter-binding-like protein
+2621_t	F-box domain
+2622_t	Gamma carbonic anhydrase-like
+2623_t	non-specific phospholipase
+2624_t	mediator of RNA polymerase II transcription subunit
+2625_t	non-specific phospholipase
+2626_t	mediator of RNA polymerase II transcription subunit
+2627_t	Nodulin-like
+2628_t	Domain of unknown function (DUF3444)
+2629_t	Nuclear transcription factor Y subunit
+263_t	DNA RNA polymerases superfamily protein
+2630_t	molybdenum cofactor sulfurtransferase activity
+2631_t	Glucuronoxylan 4-O-methyltransferase
+2632_t	TITAN-like protein
+2633_t	Protein SHOOT GRAVITROPISM
+2634_t	F-Box protein
+2635_t	COMM domain-containing protein
+2636_t	exocyst complex component
+2638_t	cytochrome P450
+2639_t	AAA-type ATPase family protein
+264_t	DNA RNA polymerases superfamily protein
+2641_t	Belongs to the peptidase C1 family
+2642_t	Autophagy protein 16 (ATG16)
+2643_t	-
+2644_t	Mitochondrial domain of unknown function (DUF1713)
+2645_t	Mitochondrial domain of unknown function (DUF1713)
+2646_t	protein-L-isoaspartate O-methyltransferase
+2647_t	Domain of unknown function (DUF1929)
+2648_t	Domain of unknown function (DUF1929)
+2649_t	Rhodanese-like domain-containing protein 11
+2650_t	serine threonine-protein kinase
+2651_t	cytochrome P450
+2652_t	cytochrome P450
+2653_t	lysM domain receptor-like kinase
+2654_t	Nitrate transporter
+2655_t	Nitrate transporter
+2656_t	-
+2657_t	Plant protein of unknown function (DUF868)
+2658_t	ribosomal protein L19
+2659_t	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family
+2660_t	mizu-kussei
+2661_t	mizu-kussei
+2662_t	Protein Dr1 homolog
+2663_t	G patch domain-containing protein
+2664_t	ethylene-responsive transcription factor
+2665_t	disease resistance
+2667_t	Protein CHAPERONE-LIKE PROTEIN OF POR1-like
+2668_t	Tetraspanin family
+2669_t	Enolase 1
+2670_t	Protein CHAPERONE-LIKE PROTEIN OF POR1-like
+2671_t	Tetraspanin family
+2672_t	Enolase 1
+2673_t	serine threonine-protein kinase
+2674_t	CCT motif
+2675_t	DNA RNA polymerases superfamily protein
+2677_t	regulation of amino acid export
+2678_t	-
+2679_t	Ribonuclease H protein
+2680_t	protease
+2681_t	Pentatricopeptide repeat-containing protein
+2682_t	protease
+2683_t	G-type lectin S-receptor-like serine threonine-protein kinase SD2-5
+2684_t	Cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+2685_t	protease
+2686_t	G-type lectin S-receptor-like serine threonine-protein kinase SD2-5
+2688_t	ADP binding
+2690_t	ADP binding
+2691_t	Belongs to the disease resistance NB-LRR family
+2692_t	G-type lectin S-receptor-like serine threonine-protein kinase SD2-5
+2694_t	ADP binding
+2695_t	light-dependent short hypocotyls
+2696_t	ADP binding
+2697_t	Belongs to the disease resistance NB-LRR family
+2698_t	G-type lectin S-receptor-like serine threonine-protein kinase SD2-5
+2699_t	ADP binding
+27_t	Protein NRDE2 homolog
+2700_t	ADP binding
+2701_t	ADP binding
+2702_t	Belongs to the disease resistance NB-LRR family
+2703_t	zinc finger
+2704_t	Protein of unknown function (DUF667)
+2705_t	disease resistance
+2707_t	Protein CHAPERONE-LIKE PROTEIN OF POR1-like
+2708_t	Tetraspanin family
+2709_t	Enolase 1
+2710_t	Tetraspanin family
+2711_t	Enolase 1
+2712_t	Tetraspanin family
+2713_t	Enolase 1
+2714_t	agmatine
+2715_t	DNA RNA polymerases superfamily protein
+2716_t	DNA RNA polymerases superfamily protein
+2717_t	serine threonine-protein kinase
+2718_t	Belongs to the formin-like family
+2719_t	Belongs to the formin-like family
+2720_t	-
+2721_t	cleavage and polyadenylation specificity factor subunit
+2722_t	cleavage and polyadenylation specificity factor subunit
+2723_t	Belongs to the formin-like family
+2724_t	-
+2725_t	cleavage and polyadenylation specificity factor subunit
+2726_t	receptor-like protein kinase
+2727_t	Vesicle transport v-SNARE
+2728_t	Pentatricopeptide repeat-containing protein At5g61370
+2729_t	glycosyltransferase
+2730_t	-
+2731_t	Two-component response regulator-like
+2732_t	glycerol-3-phosphate transporter
+2733_t	E3 ubiquitin protein ligase
+2734_t	BAG family molecular chaperone regulator
+2735_t	Monocopper oxidase-like protein
+2736_t	Endoglucanase
+2737_t	Pentatricopeptide repeat-containing protein At4g25270
+2738_t	Peptidyl-prolyl cis-trans isomerase
+2739_t	Uncharacterized protein K02A2.6-like
+2740_t	-
+2742_t	Belongs to the AAA ATPase family
+2743_t	DNA RNA polymerases superfamily protein
+2745_t	Belongs to the protein kinase superfamily. Ser Thr protein kinase family
+2746_t	Bacterial extracellular solute-binding protein
+2747_t	Encoded by
+2748_t	transposition, RNA-mediated
+2749_t	-
+275_t	-
+2751_t	-
+2752_t	AP-4 complex subunit
+2754_t	VQ motif-containing protein
+2755_t	Transcription factor BEE
+2757_t	-
+2758_t	zinc-binding in reverse transcriptase
+2759_t	B3 domain-containing transcription factor
+276_t	DNA RNA polymerases superfamily protein
+2760_t	B3 domain-containing transcription factor
+2762_t	-
+2763_t	transposition, RNA-mediated
+2764_t	DEAD-box ATP-dependent RNA helicase
+2765_t	-
+2766_t	E3 ubiquitin-protein ligase
+2767_t	E3 ubiquitin-protein ligase
+2768_t	replication factor C
+277_t	transposition, RNA-mediated
+2771_t	B3 domain-containing transcription factor
+2772_t	B3 domain-containing transcription factor
+2773_t	Ribonuclease H protein
+2774_t	-
+2777_t	Gag-pro-like protein
+2779_t	golgin candidate
+278_t	transposition, RNA-mediated
+2780_t	golgin candidate
+2781_t	golgin candidate
+2782_t	golgin candidate
+2784_t	-
+2785_t	Retrotransposon gag protein
+279_t	DNA RNA polymerases superfamily protein
+28_t	transposition, RNA-mediated
+284_t	serine threonine protein kinase IREH1
+285_t	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family
+286_t	Extension to Ser/Thr-type protein kinases
+287_t	BREVIS RADIX-like 4
+288_t	Protein kinase domain
+289_t	Inactive receptor kinase
+29_t	Protein NRDE2 homolog
+290_t	Myb/SANT-like DNA-binding domain
+291_t	Gag-pro-like protein
+292_t	Uncharacterized protein K02A2.6-like
+293_t	Phenylalanine--tRNA ligase beta subunit
+295_t	mediator of RNA polymerase II transcription subunit
+296_t	Cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+297_t	Chaperone protein DNAj
+298_t	Uncharacterized protein K02A2.6-like
+30_t	Belongs to the Casparian strip membrane proteins (CASP) family
+300_t	SCY1-like protein
+303_t	receptor-like serine threonine-protein kinase
+304_t	Transcription factor
+305_t	helix loop helix domain
+306_t	Carboxylesterase
+307_t	Carboxylesterase
+308_t	Belongs to the iron ascorbate-dependent oxidoreductase family
+310_t	phosphoglucomutase
+311_t	source UniProtKB
+312_t	Belongs to the carbohydrate kinase PfkB family
+314_t	BEST Arabidopsis thaliana protein match is
+318_t	Gag-pro-like protein
+32_t	Belongs to the peptidase A1 family
+320_t	MADS-box protein SOC1-like
+322_t	Prolyl 4-hydroxylase alpha subunit homologues.
+323_t	Removal of H(2)O(2), oxidation of toxic reductants, biosynthesis and degradation of lignin, suberization, auxin catabolism, response to environmental stresses such as wounding, pathogen attack and oxidative stress
+324_t	transcription factor
+325_t	This enzyme condenses acetyl-CoA with acetoacetyl-CoA to form HMG-CoA, which is the substrate for HMG-CoA reductase
+326_t	Glucose-methanol-choline (GMC) oxidoreductase family protein
+328_t	May be involved in the degradation of misfolded endoplasmic reticulum (ER) luminal proteins
+329_t	U-box domain-containing protein
+330_t	lipase YOR059C
+331_t	ethylene-responsive transcription factor
+332_t	ethylene-responsive transcription factor
+333_t	transcription factor
+334_t	Polycomb group protein EMBRYONIC FLOWER
+335_t	transcription factor
+336_t	GTP-BINDING protein
+337_t	ATP-dependent DNA helicase
+338_t	Phosphodiesterase responsible for the U6 snRNA 3' end processing. Acts as an exoribonuclease (RNase) responsible for trimming the poly(U) tract of the last nucleotides in the pre-U6 snRNA molecule, leading to the formation of mature U6 snRNA
+339_t	ankyrin repeat-containing protein
+340_t	N-terminal cysteine-rich region of Transmembrane protein 135
+341_t	-
+342_t	Belongs to the Glu Leu Phe Val dehydrogenases family
+343_t	polyadenylate-binding protein
+344_t	pectinesterase
+345_t	Superoxide dismutase
+346_t	Belongs to the Frigida family
+347_t	Belongs to the ClpA ClpB family
+348_t	DYW family of nucleic acid deaminases
+349_t	respiratory burst oxidase homolog protein
+350_t	Inositol phosphate kinase with a broad substrate specificity
+351_t	Staphylococcal nuclease domain-containing protein
+352_t	Calnexin homolog
+353_t	Belongs to the mitochondrial carrier (TC 2.A.29) family
+354_t	Encoded by
+355_t	Belongs to the mitochondrial carrier (TC 2.A.29) family
+356_t	Encoded by
+357_t	Belongs to the short-chain dehydrogenases reductases (SDR) family
+358_t	-
+359_t	Beta-1,4-xylosyltransferase
+36_t	Uncharacterized protein K02A2.6-like
+360_t	Random slug protein
+361_t	FLORICAULA LEAFY homolog
+362_t	BONZAI 3-like
+363_t	WD40 repeats
+364_t	Mei2-like
+365_t	Myb/SANT-like DNA-binding domain
+366_t	magnesium protoporphyrin IX methyltransferase
+367_t	Signal-recognition-particle assembly has a crucial role in targeting secretory proteins to the rough endoplasmic reticulum membrane
+368_t	Heavy-metal-associated domain
+369_t	BAR domain of APPL family
+370_t	Auxin response factors (ARFs) are transcriptional factors that bind specifically to the DNA sequence 5'-TGTCTC-3' found in the auxin-responsive promoter elements (AuxREs)
+371_t	polyadenylate-binding protein
+372_t	Belongs to the Glu Leu Phe Val dehydrogenases family
+373_t	N-terminal cysteine-rich region of Transmembrane protein 135
+374_t	ankyrin repeat-containing protein
+375_t	Phosphodiesterase responsible for the U6 snRNA 3' end processing. Acts as an exoribonuclease (RNase) responsible for trimming the poly(U) tract of the last nucleotides in the pre-U6 snRNA molecule, leading to the formation of mature U6 snRNA
+376_t	Belongs to the PTH family
+377_t	Belongs to the peptidase A1 family
+378_t	AtCASP,CASP
+379_t	Protein PLANT CADMIUM RESISTANCE
+38_t	Ribonuclease H protein
+380_t	Ribonuclease H protein
+381_t	Protein PLANT CADMIUM RESISTANCE
+383_t	DENN domain and WD repeat-containing protein SCD1
+384_t	cytochrome P450
+387_t	Serine threonine-protein phosphatase 2A 65 kDa regulatory subunit A
+388_t	Heavy metal-associated isoprenylated plant protein
+389_t	-
+390_t	Uncharacterized protein K02A2.6-like
+391_t	transposition, RNA-mediated
+392_t	protein kinase activity
+395_t	Uncharacterized protein K02A2.6-like
+396_t	Gag-pro-like protein
+40_t	serine threonine-protein kinase
+401_t	Dynein light chain
+402_t	-
+403_t	transcription factor
+404_t	beta-1,3-galactosyltransferase 19
+405_t	Transcription initiation factor
+406_t	Belongs to the AAA ATPase family
+407_t	DDT domain
+408_t	HIPL1 protein-like
+409_t	WW domain-binding protein
+410_t	Major Facilitator Superfamily protein
+411_t	Zinc ion binding
+412_t	Pentatricopeptide repeat-containing protein
+413_t	calcium-dependent protein kinase
+414_t	DnaJ homolog subfamily B member
+415_t	Belongs to the ABC transporter superfamily. ABCG family. PDR (TC 3.A.1.205) subfamily
+416_t	ATPase 11, plasma
+417_t	Thioredoxin-like protein 4B
+418_t	Dehydrogenase
+42_t	kinesin light chain
+420_t	ribonuclease H protein
+423_t	RNA-binding protein
+424_t	-
+425_t	-
+426_t	Cinnamoyl-CoA reductase
+427_t	Zinc finger CCCH domain-containing protein
+428_t	two-component response regulator
+43_t	Serine threonine-protein kinase
+432_t	serine arginine-rich splicing factor
+433_t	Belongs to the multi antimicrobial extrusion (MATE) (TC 2.A.66.1) family
+437_t	BAG family molecular chaperone regulator
+438_t	Belongs to the ABC transporter superfamily. ABCG family. PDR (TC 3.A.1.205) subfamily
+439_t	reductase
+44_t	ATP-dependent RNA helicase
+440_t	transcriptional
+441_t	F-box protein
+442_t	F-Box protein
+443_t	transposition, RNA-mediated
+444_t	RING-like zinc finger
+445_t	RNA-binding protein
+446_t	-
+447_t	F-box protein
+448_t	-
+449_t	Cinnamoyl-CoA reductase
+45_t	Serine threonine-protein kinase
+450_t	Domain of unknown function (DUF4220)
+451_t	Domain of unknown function (DUF4220)
+452_t	Domain of unknown function (DUF4220)
+453_t	Disease resistance RPP13-like protein 4
+454_t	Domain of unknown function (DUF4220)
+455_t	Domain of unknown function (DUF4220)
+456_t	26S proteasome non-ATPase regulatory subunit 13
+457_t	guanine nucleotide-binding protein
+458_t	Pentatricopeptide repeat-containing protein
+459_t	Phosphomevalonate
+46_t	cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+460_t	transcription factor
+461_t	Catalyzes xyloglucan endohydrolysis (XEH) and or endotransglycosylation (XET). Cleaves and religates xyloglucan polymers, an essential constituent of the primary cell wall, and thereby participates in cell wall construction of growing tissues
+462_t	Belongs to the glycosyltransferase 2 family
+463_t	domain-containing protein
+464_t	Esterifies acyl-group from acyl-ACP to the sn-1 position of glycerol-3-phosphate. The enzyme from chilling-resistant plants discriminates against non-fluid palmitic acid and selects oleic acid whereas the enzyme from sensitive plants accepts both fatty acids
+465_t	Poly (ADP-ribose) polymerase
+466_t	transcription factor
+468_t	lysine-specific demethylase
+469_t	homeobox-leucine zipper protein
+47_t	serine threonine-protein kinase
+470_t	plastid-lipid-associated protein 3, chloroplastic
+471_t	calcium-binding protein
+472_t	-
+473_t	nucleic acid binding protein
+474_t	Belongs to the syntaxin family
+475_t	Calmodulin-interacting protein
+476_t	transcription factor
+478_t	Mediates both low-affinity uptake and efflux of sugar across the membrane
+479_t	serine threonine-protein kinase
+48_t	cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+481_t	Ribonuclease H protein
+482_t	Domain of unknown function (DUF4283)
+483_t	Uncharacterized protein K02A2.6-like
+486_t	Phosphopantetheine adenylyltransferase
+488_t	Non-catalytic subunit
+49_t	serine threonine-protein kinase
+490_t	E3 ubiquitin-protein ligase
+491_t	Ribonuclease H protein
+492_t	Ribonuclease H protein
+493_t	executer 1
+494_t	Belongs to the Casparian strip membrane proteins (CASP) family
+495_t	Plasma membrane
+496_t	plasma membrane ATPase
+497_t	F-Box protein
+498_t	GDSL esterase lipase At4g10955-like
+499_t	oligopeptide transporter
+50_t	dof zinc finger protein
+500_t	RING-type E3 ubiquitin transferase
+501_t	General transcription factor 3C polypeptide 5-like
+502_t	Outer envelope pore protein 37
+503_t	dipeptidyl peptidase
+504_t	pectinesterase
+505_t	gpi-anchored protein
+506_t	V-type proton ATPase subunit
+509_t	serine threonine-protein kinase
+511_t	zinc finger
+512_t	Peptidyl-prolyl cis-trans isomerase
+514_t	Uncharacterized protein K02A2.6-like
+515_t	Uncharacterized protein K02A2.6-like
+516_t	Uncharacterized protein K02A2.6-like
+519_t	Dehydrogenase
+52_t	Belongs to the argonaute family
+520_t	belongs to the protein kinase superfamily
+521_t	Serine threonine-protein kinase EDR1-like
+522_t	transcription factor
+523_t	aluminum-activated malate transporter
+524_t	Fas-associated factor
+525_t	serine threonine-protein kinase
+526_t	Belongs to the yippee family
+528_t	Belongs to the MT-A70-like family
+529_t	Phosphoenolpyruvate carboxylase family protein
+53_t	anthranilate phosphoribosyltransferase
+530_t	UPF0160 protein
+531_t	Belongs to the AAA ATPase family
+532_t	serine threonine-protein kinase
+533_t	metal-nicotianamine transporter
+534_t	-
+535_t	embryogenesis-associated protein
+536_t	methionine
+537_t	methionine
+538_t	methionine
+539_t	cytochrome P450
+541_t	Domain of unknown function (DUF1929)
+542_t	Major Facilitator Superfamily protein
+544_t	transposition, RNA-mediated
+545_t	Eukaryotic peptide chain release factor GTP-binding subunit
+546_t	Histidine biosynthesis bifunctional protein (HISIE)
+547_t	-
+55_t	DNA RNA polymerases superfamily protein
+551_t	Binds specifically and directly to substrates containing either a simple or bipartite NLS motif. Promotes docking of import substrates to the nuclear envelope
+552_t	Belongs to the multi antimicrobial extrusion (MATE) (TC 2.A.66.1) family
+553_t	Gag-pro-like protein
+554_t	Protein of unknown function (DUF760)
+555_t	Protein of unknown function (DUF760)
+556_t	Belongs to the aldehyde dehydrogenase family
+557_t	Protein of unknown function (DUF760)
+558_t	Belongs to the mitochondrial carrier (TC 2.A.29) family
+559_t	Uncharacterized protein K02A2.6-like
+56_t	ABC transporter G family member
+560_t	RIBOSOMAL protein
+561_t	glycosyltransferase
+562_t	Uncharacterized protein K02A2.6-like
+563_t	Target of Myb protein
+566_t	Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family
+568_t	E2F transcription factor-like E2FE
+569_t	Mannose-1-phosphate guanyltransferase
+570_t	DnaJ homolog subfamily B member
+572_t	glycosyltransferase
+575_t	-
+576_t	DNA-binding protein
+577_t	Mitochondrial import inner membrane translocase subunit Tim17 Tim22 Tim23 family protein
+578_t	cellular response to sulfur starvation
+579_t	Membrane protein of ER
+580_t	Trihelix transcription factor
+581_t	Transmembrane protein 120 homolog
+582_t	Methyltransferase
+583_t	HEAT repeat-containing protein
+584_t	gag-polypeptide of LTR copia-type
+585_t	HEAT repeat-containing protein
+586_t	RING-H2 finger protein
+587_t	Belongs to the actin family
+588_t	-
+589_t	WAT1-related protein
+59_t	Protein of unknown function (DUF789)
+590_t	WAT1-related protein
+591_t	transposition, RNA-mediated
+592_t	WAT1-related protein
+593_t	60s ribosomal protein
+594_t	Nuclear pore complex protein
+596_t	transcription factor
+597_t	-
+598_t	(NAC) domain-containing protein
+60_t	transposition, RNA-mediated
+600_t	ubiquitin-protein transferase activity
+601_t	Belongs to the actin family
+602_t	-
+603_t	WAT1-related protein
+604_t	Uncharacterized protein K02A2.6-like
+606_t	transcription factor
+607_t	hydrolase, alpha beta fold family
+608_t	gag-polypeptide of LTR copia-type
+609_t	Mitochondrial protein
+610_t	Lung seven transmembrane receptor
+611_t	Protein BRANCHLESS TRICHOME
+612_t	growth-regulating factor
+613_t	IQ-domain
+614_t	Glutaredoxin
+615_t	NAC domain-containing protein
+616_t	Domain of unknown function (DUF4228)
+617_t	Polyadenylate-binding protein-interacting protein
+618_t	-
+619_t	Belongs to the glycosyltransferase 1 family. Bacterial plant glycogen synthase subfamily
+621_t	-
+622_t	Polyketide cyclase dehydrase and lipid transport superfamily protein
+623_t	Belongs to the glycosyltransferase 31 family
+624_t	finger protein
+626_t	metal tolerance protein
+627_t	Belongs to the iron ascorbate-dependent oxidoreductase family
+629_t	Cystathionine gamma-synthase
+631_t	Uncharacterized protein K02A2.6-like
+632_t	Uncharacterized protein K02A2.6-like
+633_t	Glutamate-cysteine ligase
+635_t	Squamosa promoter-binding-like protein
+636_t	Alpha-1,4-glucan-protein synthase (UDP-forming)
+638_t	Galactose oxidase kelch, beta-propeller (InterPro IPR011043), Kelch repeat type 1 (InterPro IPR006652), Kelch repeat type 2 (InterPro IPR011498), Kelch-type beta propeller (InterPro IPR015915)
+640_t	longifolia
+641_t	Cytochrome p450
+642_t	Belongs to the cytochrome P450 family
+643_t	-
+644_t	Ras GTPase-activating protein-binding protein
+645_t	Protein of unknown function (DUF1118)
+646_t	glycerophosphoryl diester phosphodiesterase
+647_t	Component of the replication protein A complex (RPA) required for DNA recombination, repair and replication. The activity of RPA is mediated by single-stranded DNA binding and protein interactions. Probably involved in repair of double-strand DNA breaks (DSBs) induced by genotoxic stresses
+648_t	exocyst complex component
+649_t	Glycine-rich RNA-binding protein
+650_t	-
+651_t	phosphoserine phosphatase
+652_t	Ribonuclease H protein
+653_t	source UniProtKB
+654_t	-
+655_t	PHD zinc finger
+656_t	Belongs to the cytochrome P450 family
+657_t	Belongs to the ClpA ClpB family
+66_t	Reverse transcriptase (RNA-dependent DNA polymerase)
+660_t	source UniProtKB
+661_t	-
+662_t	receptor-like protein kinase
+664_t	Plays an essential role in chain termination during de novo fatty acid synthesis
+666_t	Heavy-metal-associated domain
+668_t	Gamma carbonic anhydrase-like
+669_t	Protein of unknown function (DUF3339)
+67_t	transposition, RNA-mediated
+670_t	non-specific phospholipase
+671_t	mediator of RNA polymerase II transcription subunit
+672_t	transcription factor
+673_t	inactive receptor kinase
+674_t	Belongs to the glucose-6-phosphate 1-epimerase family
+675_t	ABC transporter C family member 10-like
+676_t	Catalyzes the oxidative decarboxylation of 6- phosphogluconate to ribulose 5-phosphate and CO(2), with concomitant reduction of NADP to NADPH
+677_t	Protein of unknown function (DUF1191)
+678_t	BTB POZ domain-containing protein
+679_t	intracellular protein transport protein
+680_t	cation H( ) antiporter
+681_t	cation H( ) antiporter
+682_t	-
+683_t	aluminum-activated malate transporter
+685_t	calcium-dependent protein kinase
+686_t	CAAX amino terminal protease family protein
+688_t	ATPase family
+689_t	Reticulon-like protein
+691_t	Membrane-associated kinase regulator
+692_t	BTB POZ domain-containing protein
+693_t	Holliday junction resolvase
+694_t	lysine-specific demethylase
+695_t	Belongs to the ubiquitin-conjugating enzyme family
+696_t	cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+697_t	Inactive receptor kinase
+698_t	ribonuclease III activity
+7_t	Homeobox-leucine zipper protein
+700_t	Gag-pro-like protein
+703_t	cyclic nucleotide-gated ion channel
+705_t	transposition, RNA-mediated
+706_t	Belongs to the aldehyde dehydrogenase family
+707_t	Belongs to the aldehyde dehydrogenase family
+708_t	TFIIS helical bundle-like domain
+71_t	ribonuclease H protein
+711_t	Protease Do-like 9
+712_t	WAT1-related protein
+713_t	Belongs to the disease resistance NB-LRR family
+714_t	G-type lectin S-receptor-like serine threonine-protein kinase SD2-5
+717_t	ADP binding
+718_t	-
+719_t	regulation of amino acid export
+721_t	CCT motif
+722_t	serine threonine-protein kinase
+723_t	G patch domain-containing protein
+724_t	Protein Dr1 homolog
+725_t	mizu-kussei
+73_t	source UniProtKB
+736_t	DNA RNA polymerases superfamily protein
+739_t	DNA RNA polymerases superfamily protein
+740_t	DNA RNA polymerases superfamily protein
+741_t	-
+744_t	WAT1-related protein
+745_t	Nitrate transporter
+746_t	-
+747_t	Plant protein of unknown function (DUF868)
+748_t	ribosomal protein L19
+749_t	Glucose-methanol-choline (GMC) oxidoreductase family protein
+750_t	Peptidoglycan-binding LysM domain-containing protein
+751_t	Sorbitol dehydrogenase-like
+752_t	Zinc finger CCCH domain-containing protein
+753_t	calcium-dependent protein kinase
+754_t	ABC transporter B family member
+755_t	Abnormal spindle-like microcephaly-associated protein homolog
+756_t	ABC transporter B family member
+757_t	post-GPI attachment to proteins factor
+758_t	Dehydration-responsive element-binding protein
+760_t	ethylene-responsive transcription factor
+762_t	pectinesterase
+763_t	Belongs to the universal ribosomal protein uS4 family
+764_t	Microtubule-associated protein RP EB family member
+766_t	Pleckstrin homology domain
+767_t	Transcription factor
+768_t	Transcription factor
+773_t	Belongs to the nucleosome assembly protein (NAP) family
+774_t	Protein PHYTOCHROME KINASE SUBSTRATE
+775_t	glutathione s-transferase
+776_t	Eukaryotic release factor 1-3 isoform 1
+777_t	Myb-related protein
+778_t	Reverse transcriptase (RNA-dependent DNA polymerase)
+779_t	Glycosyl hydrolase family 14
+780_t	Protein of unknown function, DUF599
+781_t	DNA mismatch repair protein
+782_t	Cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+783_t	DNA mismatch repair protein
+784_t	Transcriptional repressor, ovate
+785_t	calcium-binding protein
+786_t	(NAC) domain-containing protein
+787_t	cellular transition metal ion homeostasis
+788_t	Heavy-metal-associated domain
+79_t	belongs to the protein kinase superfamily
+790_t	-
+791_t	Nascent polypeptide-associated complex subunit alpha-like protein
+792_t	-
+793_t	Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-independent O- methyltransferase family
+794_t	Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-independent O- methyltransferase family
+795_t	transparent testa glabra
+796_t	-
+797_t	Late embryogenesis abundant protein
+798_t	Two-component response regulator-like
+799_t	Ribosome-binding factor PSRP1
+8_t	Hydroxyproline-rich glycoprotein family protein
+800_t	Ribonuclease H protein
+801_t	Belongs to the multicopper oxidase family
+803_t	-
+81_t	dihydropyrimidine dehydrogenase
+816_t	ATP synthase subunit beta
+817_t	Ribulose bisphosphate carboxylase large chain, N-terminal domain
+819_t	Viral movement protein (MP)
+821_t	Mediates both low-affinity uptake and efflux of sugar across the membrane
+822_t	Responsible for synthesis of pseudouridine from uracil
+823_t	May serve as docking site to facilitate the association of other proteins to the plasma membrane
+824_t	Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family
+825_t	cell fate commitment
+826_t	Indole-3-acetic acid-induced protein ARG7-like
+827_t	Omega-hydroxypalmitate O-feruloyl
+828_t	DEK C terminal domain
+829_t	60s ribosomal protein
+83_t	glutamine synthetase
+830_t	transposition, RNA-mediated
+831_t	SWI SNF complex subunit
+832_t	ACT domain
+833_t	RecQ-mediated genome instability protein
+834_t	Belongs to the short-chain dehydrogenases reductases (SDR) family
+835_t	Microtubule-associated protein RP EB family member
+836_t	Pleckstrin homology domain
+837_t	HVA22-like protein
+838_t	Transcription factor
+839_t	Transcription factor
+841_t	kinesin light chain
+842_t	Mediates both low-affinity uptake and efflux of sugar across the membrane
+843_t	belongs to the protein kinase superfamily
+844_t	Protein NLP7-like isoform X1
+845_t	Belongs to the glycosyltransferase 2 family
+846_t	Auxin response factors (ARFs) are transcriptional factors that bind specifically to the DNA sequence 5'-TGTCTC-3' found in the auxin-responsive promoter elements (AuxREs)
+847_t	B2 protein-like
+848_t	Protein phosphatase 2C 55
+849_t	-
+850_t	Protein TIC 22, chloroplastic
+851_t	F-box protein
+852_t	ATP-dependent zinc metalloprotease
+853_t	-
+854_t	calcineurin b-like protein
+855_t	Phosphatidylinositol 4-kinase gamma
+856_t	transposition, RNA-mediated
+859_t	CEN-like protein
+86_t	-
+860_t	homeobox-leucine zipper protein
+861_t	60S ribosomal Protein
+862_t	Inactive rhomboid protein
+863_t	IQ-domain
+864_t	Cytochrome p450
+865_t	Membrane fusion protein Use1
+866_t	transposition, RNA-mediated
+867_t	Mitochondrial protein
+868_t	Zein-binding
+869_t	serine threonine-protein phosphatase
+870_t	Belongs to the 5-formyltetrahydrofolate cyclo-ligase family
+872_t	Belongs to the universal ribosomal protein uS15 family
+873_t	Chloride conductance regulatory protein
+874_t	Belongs to the cytochrome P450 family
+875_t	Belongs to the cytochrome P450 family
+876_t	40S ribosomal protein
+877_t	EXORDIUM-like
+878_t	Protein LOW PSII ACCUMULATION 2
+88_t	RNA polymerase sigma factor
+880_t	serine threonine protein kinase IRE
+881_t	serine threonine protein kinase IRE
+882_t	Myb-like DNA-binding domain
+884_t	Uncharacterized protein K02A2.6-like
+886_t	-
+889_t	CEN-like protein
+89_t	Transcription factor
+890_t	E3 ubiquitin-protein ligase
+892_t	dCTP pyrophosphatase 1-like
+893_t	Belongs to the hexokinase family
+894_t	Belongs to the universal ribosomal protein uS5 family
+896_t	RING-type zinc-finger
+897_t	transcription factor
+898_t	SNAP25 homologous protein
+899_t	-
+9_t	Belongs to the MIP aquaporin (TC 1.A.8) family
+90_t	Mediates both low-affinity uptake and efflux of sugar across the membrane
+900_t	zinc finger
+901_t	Zinc finger protein
+903_t	ADP binding
+904_t	ADP binding
+905_t	ADP binding
+906_t	Gag-pro-like protein
+907_t	Myb-like DNA-binding domain
+908_t	-
+909_t	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family
+91_t	-
+910_t	NADH dehydrogenase ubiquinone 1 beta subcomplex subunit
+911_t	Mitochondrial protein
+912_t	Mitochondrial protein
+916_t	Zinc finger protein
+917_t	Reverse transcriptase-like
+919_t	E3 ubiquitin-protein ligase
+92_t	glucuronosyltransferase
+920_t	E3 ubiquitin-protein ligase
+921_t	CEN-like protein
+923_t	Belongs to the heat shock protein 70 family
+926_t	Uncharacterized protein K02A2.6-like
+927_t	Gag-pro-like protein
+928_t	-
+929_t	Belongs to the heat shock protein 70 family
+93_t	Peroxisome biogenesis protein
+932_t	Belongs to the short-chain dehydrogenases reductases (SDR) family
+933_t	Methyltransferase-like protein 17
+934_t	transcription factor
+935_t	WD repeat-containing protein
+936_t	dof zinc finger protein
+937_t	BTB POZ domain-containing protein
+938_t	MADS
+939_t	zinc finger
+94_t	transport protein
+941_t	NF-X1-type zinc finger protein
+942_t	receptor-like protein kinase
+943_t	receptor-like protein kinase
+944_t	Required for the first step in the synthesis of diphthamide, a post-translational modification of histidine which occurs in translation elongation factor 2
+945_t	Uncharacterized protein K02A2.6-like
+946_t	Encoded by
+947_t	Belongs to the GRAS family
+948_t	Nucleoside diphosphate kinase
+949_t	-
+95_t	Zinc finger protein
+950_t	AarF domain-containing protein kinase
+951_t	AarF domain-containing protein kinase
+952_t	26S proteasome non-atpase regulatory subunit
+953_t	ubiquitin-like-specific protease
+954_t	Telomere length regulation protein TEL2 homolog
+955_t	Catalytic histone acetyltransferase subunit of the RNA polymerase II elongator complex, which is a component of the RNA polymerase II (Pol II) holoenzyme and is involved in transcriptional elongation
+956_t	callose synthase
+957_t	lysine-specific demethylase
+958_t	ATP synthase subunit beta
+959_t	lysine-specific demethylase
+96_t	RWP-RK domain
+960_t	Cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+961_t	lysine-specific demethylase
+962_t	Haloacid dehalogenase-like hydrolase domain-containing protein At3g48420
+963_t	Belongs to the 'GDSL' lipolytic enzyme family
+965_t	ethylene-responsive transcription factor
+966_t	Carbon catabolite repressor protein 4 homolog
+967_t	lysM domain-containing GPI-anchored protein 1-like
+968_t	transposition, RNA-mediated
+969_t	transposition, RNA-mediated
+97_t	Belongs to the peptidase M10A family
+970_t	-
+971_t	Cell division cycle
+972_t	Cysteine-rich RLK (RECEPTOR-like protein kinase) 8
+973_t	lysine-specific demethylase
+974_t	Haloacid dehalogenase-like hydrolase domain-containing protein At3g48420
+975_t	Belongs to the 'GDSL' lipolytic enzyme family
+976_t	Probably involved in membrane trafficking
+977_t	Phosphoribulokinase
+978_t	CSC1-like protein At1g32090
+98_t	GDP-fucose protein O-fucosyltransferase
+980_t	MYB family transcription factor
+981_t	reductase
+982_t	Protein LOW PSII ACCUMULATION 3
+983_t	Protein ENHANCED DISEASE RESISTANCE
+984_t	Transmembrane protein 45B-like
+985_t	MOB kinase activator-like
+986_t	beta-galactosidase
+987_t	Protein PAM68, chloroplastic
+988_t	methyltransferase
+989_t	-
+99_t	atg2484-1,g2484-1
+991_t	Protein root UVB sensitive 1
+992_t	Ribonuclease H2, subunit
+993_t	WAT1-related protein
+994_t	carotenoid cleavage dioxygenase 4
+995_t	F-box protein
+996_t	Belongs to the heat shock protein 70 family
+998_t	Zinc-finger homeodomain protein
