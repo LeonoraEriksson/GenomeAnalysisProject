@@ -1,0 +1,27 @@
+#!/bin/bash -l
+#SBATCH -A uppmax2023-2-8
+#SBATCH -M snowy
+#SBATCH -p core
+#SBATCH -n 8
+#SBATCH -t 12:00:00
+#SBATCH -J leono_HTseq
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user leonora.eriksson.4675@student.uu.se
+
+# Load modules
+module load bioinfo-tools
+module load htseq
+module load samtools
+
+# Your commands
+cd $SNIC_TMP
+
+htseq-count --format=bam --order=pos \
+/home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapping_for_differential_expression/Aril_1/Aril_1_mapped_Aligned.sortedByCoord.out.bam \
+/home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapping_for_differential_expression/Aril_2/Aril_2_mapped_Aligned.sortedByCoord.out.bam \
+/home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapping_for_differential_expression/Aril_3/Aril_3_mapped_Aligned.sortedByCoord.out.bam \
+/home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapping_for_differential_expression/Leaf/Leaf_mapped_Aligned.sortedByCoord.out.bam \
+/home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapping_for_differential_expression/Root/Root_mapped_Aligned.sortedByCoord.out.bam \
+/home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/03_rna_mapping/Mapping_for_differential_expression/Stem/Stem_mapped_Aligned.sortedByCoord.out.bam \
+/home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/code/GeneMark-ET/genemark.gtf \
+> /home/leono/GenomeAnalysis_Project/GenomeAnalysisProject/analyses/05_differential_expression/Read_counting/Read_counts.txt
