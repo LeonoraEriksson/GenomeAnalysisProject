@@ -1,0 +1,7 @@
+                                        baseMean log2FoldChange     lfcSE      stat      pvalue        padj
+                                       <numeric>      <numeric> <numeric> <numeric>   <numeric>   <numeric>
+methionine.3                          25085.4777       12.19953   1.43975   8.47336 2.38412e-17 2.38889e-14
+invertase_inhibitor                    4428.6149       13.56623   1.63228   8.31124 9.47076e-17 4.74485e-14
+Gamma_carbonic_anhydrase_like.1         272.6737       11.09105   1.83517   6.04361 1.50708e-09 5.03363e-07
+Myb/SANT_like_DNA_binding_domain        160.4662        8.36774   1.45510   5.75063 8.89090e-09 2.22717e-06
+.64                                      91.2484        8.57797   1.57779   5.43669 5.42784e-08 1.08774e-05
